@@ -1,0 +1,60 @@
+ _                      _
+| |_ _ __ ___ _ __   __| | __ _ _ __ __ _
+| __| '__/ _ \ '_ \ / _` |/ _` | '__/ _` |
+| |_| | |  __/ | | | (_| | (_| | | | (_| |
+ \__|_|  \___|_| |_|\__,_|\__,_|_|  \__,_|
+
+The humans.txt file explains the team, technology,
+and graphic assets behind this site.
+
+_______________________________________________________________________________
+
+
+This website was written & hand-crafted by:
+
+Rowe Morehouse
+twitter.com/@rowemore
+linkedin.com/in/rowemorehouse
+
+
+_______________________________________________________________________________
+
+SPECIAL THANKS
+
+Matt Elder
+Marc Weinbach
+
+_______________________________________________________________________________
+
+TECHNOLOGY
+
+Jekyll - Static site generator
+jekyllrb.com/
+
+  GEMs of note:
+    - jekyll-sitemap
+    - jekyll-redirect-from
+    - octopress
+    - redcarpet
+
+SASS - CSS extension scripting language
+sass-lang.com
+
+Github - Code collaboration
+github.com
+
+JS libraries include:
+jQuery, html5shiv.js, respond.js, fitvids.js, visible.js, animate.css
+
+_______________________________________________________________________________
+
+FONTS
+
+Helvetica Neu
+Baskerville
+
+_______________________________________________________________________________
+
+
+
+®2016 Trendara LLC

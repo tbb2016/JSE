@@ -1,0 +1,16 @@
+# Footer navigation links
+
+- title: Home
+  url: /
+
+- title: More Articles
+  url: /services/
+
+- title: About
+  url: /about/
+
+- title: Contact
+  url: /contact/
+
+- title: Terms
+  url: /terms/

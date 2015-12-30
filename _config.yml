@@ -1,0 +1,44 @@
+# Site wide configuration
+
+title: Trendara LLC
+description: "Sales and Marketing Services."
+logo: trendara_logomark_120x120.png #120x120 px default image used for Twitter summary card
+teaser: marketing-automation-agency.png #400x250 px default teaser image used in image archive grid
+locale: en
+timezone: America/Los_Angeles
+url: //localhost:4000
+# url: //trendara.com
+
+# Jekyll configuration
+sass:
+  sass_dir: _sass
+  style: compressed
+permalink: /:categories/:title/
+kramdown:
+  toc_levels: 1..2
+  input: GFM
+highlighter: pygments
+markdown: redcarpet
+gems:
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-redirect-from
+  - github-pages
+
+
+# Site owner
+owner:
+  name: Rowe Morehouse
+  email: rowe[at]trendara[dot]com
+  twitter: rowemore
+  bio: "code ∙ sales ∙ learning ∙ leadership"
+  google:
+    plus:
+    ad-client:
+    ad-slot:
+  bio:
+  avatar: rowe-morehouse.jpg # 160x160 px image for author byline
+  disqus-shortname:
+
+
+exclude: ["private/", "_posts/media/", "media/", lib", "config.rb", ".sass-cache", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "*.sublime-project", "*.sublime-workspace", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "node_modules", "Gruntfile.js", "package.json"]

@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>{% if page.title %}{{ page.title }} • {% endif %}{{ site.title }}</title>
+    {% if page.excerpt %}<meta name="description" content="{{ page.excerpt | strip_html }}">{% endif %}
+    {% if page.tags %}<meta name="keywords" content="{{ page.tags | join: ', ' }}">{% endif %}
+    {% if page.author %}
+      {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.owner %}
+    {% endif %}
+    {% include open-graph.html %}
+    {% if author.google.plus %}<link rel="author" href="https://plus.google.com/{{ author.google.plus }}"/>{% endif %}
+
+    <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.url }}">
+
+    <link href="{{ site.url }}/atom.xml" type="application/atom+xml" rel="alternate" title="{{ site.title }} Atom Feed">
+
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="cleartype" content="on">
+
+    <link rel="stylesheet" href="{{ site.url }}/css/main.css?v=1.0">
+    <!-- HTML5 Shiv and Media Query Support for IE -->
+    <!--[if lt IE 9]>
+      <script src="{{ site.url }}/js/vendor/html5shiv.min.js"></script>
+      <script src="{{ site.url }}/js/vendor/respond.min.js"></script>
+    <![endif]-->
+
+    <style>
+      #learn {
+        -webkit-animation-duration: .8s;
+        -webkit-animation-delay: 12s;
+        -webkit-animation-iteration-count: 5;
+        animation-duration: .8s;
+        animation-delay: 12s;
+        animation-iteration-count: 5;
+    </style>
+
+  </head>
+
+  <body>
+    {% include header.html %}
+    {% include navigation-sliding.html %}
+
+    <div id="video-container">
+      <video class="fade-in one" id="video" loop autoplay muted">
+        <source src="{{ site.url }}/images/video_back.mp4" type="video/mp4">
+        <source src="{{ site.url }}/images/video_back.webm" type="video/webm">
+        <source src="{{ site.url }}/images/video_back.ogv" type="video/ogg">
+      </video>
+
+      <div id="overlay-content" class="wrap page-lead-content">
+        <h2 class="headline">Marketing Automation Services.</h2>
+        <h2>Fix Your SaaS. Improve Your Processes. Grow Your revenues.</h2>
+
+        <a href="{{ site.url }}/value-prop/" class="btn-inverse btn-inverse-shadow">Learn About Our Value Proposition</a>
+
+      </div>
+    </div>
+
+    <div id="page-wrapper">
+
+      {% include browser-upgrade.html %}
+      <div id="main" role="main">
+        <div class="wrap">
+          <div class="page-title">
+          </div>
+          <div class="archive-wrap">
+            <div class="page-content">
+              {{ content }}
+            </div>
+          </div>
+        </div>
+      </div>
+
+      {% include footer.html %}
+    </div>
+
+    <script src="{{ site.url }}/js/vendor/jquery-1.9.1.min.js"></script>
+    <script src="{{ site.url }}/js/main.js"></script>
+
+  </body>
+</html>
