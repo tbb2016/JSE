@@ -7,7 +7,7 @@ teaser: marketing-automation-agency.png #400x250 px default teaser image used in
 locale: en
 timezone: America/Los_Angeles
 url: http://trendara.com
-# url: //localhost:4000
+#url: //localhost:4000
 # url: //rowe-morehouse.github.io/trendara-public
 
 # Jekyll configuration
@@ -42,4 +42,4 @@ owner:
   disqus-shortname:
 
 
-exclude: ["private/", "_posts/media/", "media/", lib", "config.rb", ".sass-cache", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "*.sublime-project", "*.sublime-workspace", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "node_modules", "Gruntfile.js", "package.json"]
+exclude: ["private/", "_posts/media/", "media/", "lib", "config.rb", ".sass-cache", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "*.sublime-project", "*.sublime-workspace", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "node_modules", "Gruntfile.js", "package.json"]

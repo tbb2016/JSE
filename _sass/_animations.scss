@@ -835,9 +835,8 @@ animation-delay: 0.3s;
   animation-name: zoomOut;
 }
 
- /*!
-    shadowbox: Grow larger with drop shadow on hover.
-    ========================================================================== */
+ /*  shadowbox: Grow larger with smooth drop shadow animation on hover.
+========================================================================== */
 
 .shadowbox {
   position: relative;
