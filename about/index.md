@@ -18,20 +18,14 @@ image:
 
 <h6 class="strapline">Trendara is a digital agency and marketing automation systems integrator.</h6>
 
-<p class="body">Incorporated in 2004, Trendara LLC helps companies increase revenue by improving sales and marketing processes and tactics. Our service offering is twofold:
+  <p class="body">Incorporated in 2004, Trendara LLC helps companies increase revenue by improving sales and marketing processes and tactics. Our service offering is twofold:</p>
 
 <ol>
   <li>We provide marketing SaaS systems integration and configuration to help our clients improve and manage their sales and marketing processes.</li>
   <li>We create and administer online marketing and advertising campaigns — including on-page conversion optimization — to help our clients generate a higher volume of qualified leads and close more sales.</li>
-  </ol>
-Trendara also customizes and administers client Web Analytics, CRM, and Salesforce Automation systems to allow executives maximum clarity and visibility into Marketing ROI and an accurate sales pipeline.</p>
+</ol>
 
-<address style="margin-left: 25px">
-<strong>Trendara LLC</strong><BR>
-3435 Ocean Park Blvd. Suite 107<BR>
-Santa Monica CA 90405<BR>
-+1 (323) 843-9918
-</address> 
+Trendara also customizes and administers client Web Analytics, CRM, and Salesforce Automation systems to allow executives maximum clarity and visibility into Marketing ROI and an accurate sales pipeline.
 
 ---
 ### MANAGEMENT
@@ -61,6 +55,15 @@ Santa Monica CA 90405<BR>
 </div>
 </figure>
 <a href="https://www.linkedin.com/in/matthewelder" class="btn-social linkedin" target="_blank"><i class="fa fa-linkedin" aria-hidden="true"></i> LinkedIn</a> 
+
+<hr class="less-margin" />
+
+<address style="margin-left: 25px">
+<strong>Trendara LLC</strong><BR>
+3435 Ocean Park Blvd. Suite 107<BR>
+Santa Monica CA 90405<BR>
++1 (323) 843-9918
+</address> 
 
 <hr class="less-margin" />
 
