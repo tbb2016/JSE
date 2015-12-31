@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: article-special
 title: "About Trendara"
 categories: services
 date: 2015-12-29T23:18:10-08:00
@@ -32,7 +32,6 @@ Trendara also customizes and administers client Web Analytics, CRM, and Salesfor
 
 <figure class="third">
   <img src="{{ site.url}}/images/rowe-morehouse.jpg" alt="Rowe Morehouse">
-  <figcaption>Rowe Morehouse</figcaption>
 <div>
   <h6>Rowe Morehouse, Executive Director</h6>
   Rowe is Principal Consultant and Executive Director of Trendara LLC. In this role he is responsible for understanding client business objectives, developing strategy, defining projects, setting metrics of success, and ensuring quality and on-time delivery of all work products. Mr. Morehouse also administers the LLC, and provides vision, leadership, and direction for the company.<BR><BR>
@@ -48,7 +47,6 @@ Trendara also customizes and administers client Web Analytics, CRM, and Salesfor
 
 <figure class="third">
   <img src="{{ site.url}}/images/matthew_elder_800x800.jpg" alt="Mathew Elder">
-  <figcaption>Matthew Elder</figcaption>
 <div>
   <h6>Matthew Elder, VP Engineering</h6>
   Matthew Elder is fluent in over 20 programming languages. What makes Matt unique as a full-stack developer is his revenue-minded focus on the business value of the features he designs and builds. An expert at creative SaaS & API integrations, Matt's specialties include Software Project Planning, Iterative Software Development, Systems Analysis, Linux, High Availability, Databases, and HTML5.<BR><BR>
@@ -67,6 +65,8 @@ Santa Monica CA 90405<BR>
 +1 (323) 843-9918
 </address> 
 
-<hr class="less-margin" />
-
 <div style="display: block; margin: auto auto"><a href="{{ site.url }}/contact/" class="btn-success shadowbox green" style="color: white;"> &nbsp; Request A Free Consultation. &nbsp; </a></div>
+
+---
+
+
