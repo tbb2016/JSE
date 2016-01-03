@@ -36,9 +36,9 @@ Trendara also customizes and administers client Web Analytics, CRM, and Salesfor
   <h6>Rowe Morehouse, Executive Director</h6>
   Rowe is Principal Consultant and Executive Director of Trendara LLC. In this role he is responsible for understanding client business objectives, developing strategy, defining projects, setting metrics of success, and ensuring quality and on-time delivery of all work products. Mr. Morehouse also administers the LLC, and provides vision, leadership, and direction for the company.<BR><BR>
 
-  A skilled technologist,  writer, sales executive, and creative entrepreneur, Rowe has 20 years experience managing web development teams, SMB consulting at the C-level, and leading client-services engagements ranging from small business to Global 2000 companies in enterprise software, financial services, entertainment, and consumer products industries.<BR><BR>
+  A skilled technologist, writer, sales executive, and creative entrepreneur, Rowe has 20 years experience managing web development teams, SMB consulting at the C-level, and leading client-services engagements ranging from small business to Global 2000 companies in enterprise software, financial services, entertainment, and consumer products industries.<BR><BR>
 
-  A Salesforce.com Certified Sales Cloud Consultant, Mr. Morehouse holds a Master's degree in Integrated Marketing Communications from the University of Colorado, and a BA graduating with honors from UC Santa Cruz with studies in Social Psychology and Computer Science.
+  Mr. Morehouse holds a Master's degree in Integrated Marketing Communications from the University of Colorado, and a BA graduating with honors from UC Santa Cruz with studies in Social Psychology and Computer Science.
 </div>
 </figure>
 <a href="http://linkedin.com/in/rowemorehouse" class="btn-social linkedin" target="_blank"><i class="fa fa-linkedin" aria-hidden="true"></i> LinkedIn</a> &nbsp; <a href="http://twitter.com/rowemore" class="btn-social twitter" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i> @rowemore</a>
