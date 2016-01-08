@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "What's your problem, son?"
+title: "Contact Us!"
 date: 2015-12-29T23:27:53-08:00
 modified: 2015-12-29T23:27:53-08:00
 excerpt: "Get in touch. Ask us anything!"

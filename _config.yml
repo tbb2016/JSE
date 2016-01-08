@@ -24,7 +24,7 @@ gems:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-redirect-from
-  - github-pages
+  #- github-pages
 
 
 # Site owner
