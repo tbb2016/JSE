@@ -1,12 +1,12 @@
 # Site wide configuration
 
-title: Trendara LLC
-description: "Sales and Marketing Services."
+title: "" #Trendara LLC
+description: "" #"Sales and Marketing Services."
 logo: trendara_logomark_120x120.png #120x120 px default image used for Twitter summary card
 teaser: marketing-automation-agency.png #400x250 px default teaser image used in image archive grid
 locale: en
 timezone: America/Los_Angeles
-url: http://trendara.com
+url: "" #http://trendara.com
 #url: //localhost:4000
 #url: //rowe-morehouse.github.io/trendara-public
 
