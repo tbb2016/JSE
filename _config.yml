@@ -18,8 +18,8 @@ permalink: /:categories/:title/
 kramdown:
   toc_levels: 1..2
   input: GFM
-highlighter: pygments
-markdown: redcarpet
+highlighter: rouge
+markdown: kramdown
 gems:
   - jekyll-sitemap
   - jekyll-gist
