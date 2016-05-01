@@ -1,20 +1,20 @@
 # Site navigation links
-- title: Value Proposition
+- title: 价值
   url: /value-prop/
   excerpt: "Our value proposition & benefits to your business."
   image: L2RM-Agency.png
 
-- title: Menu Of Services
+- title: 服务
   url: /services/
   excerpt: "Learn what we can do to improve your sales & marketing efforts."
   image: sales-rep-training.png
 
-- title: About
+- title: 关于我们
   url: /about/
   excerpt: "Meet our management & learn about the history of the firm."
   image: marketing-automation-agency.png
 
-- title: Contact
+- title: 联系我们
   url: /contact/
   excerpt: "Reach out to us! … Consider it free consulting."
   image: marketing-automation-agency.png
