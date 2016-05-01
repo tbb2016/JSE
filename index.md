@@ -18,20 +18,20 @@ ads: false
 <div class="tiles">
   <div class="tile">
     <h2 class="post-title">运营理念</h2>
-    <p class="post-excerpt"> &nbsp; &nbsp; &nbsp; 充分以学生为中心，提供高品质、差异化的教育咨询服务</p>
+    <p class="post-excerpt"> &nbsp; &nbsp; &nbsp; <li>充分以学生为中心，提供高品质、差异化的教育咨询服务</li></p>
   </div>
   <div class="tile">
     <h2 class="post-title">主营业务</h2>
-    <p class="post-excerpt">&nbsp; &nbsp; &nbsp; <li>语言学校的交流、咨询和服务</li><BR>
-    &nbsp; &nbsp; &nbsp; <li>海外教育的交流、咨询和服务</li><BR>
+    <p class="post-excerpt">&nbsp; &nbsp; &nbsp; <li>语言学校的交流、咨询和服务</li>
+    &nbsp; &nbsp; &nbsp; <li>海外教育的交流、咨询和服务</li>
     &nbsp; &nbsp; &nbsp; <li>文化教育的交流、咨询和服务</li></p>
   </div>
   <div class="tile">
     <h2 class="post-title">目标群体</h2>
-    <p class="post-excerpt">&nbsp; &nbsp; &nbsp; * 希望提高日常英语和学术英语，全面提升听、说、都、写能力的学生<BR>
-    &nbsp; &nbsp; &nbsp; 希望能够体验北美的课堂氛围和教学理念，感受北美文化的学生<BR>
-    &nbsp; &nbsp; &nbsp; 备考英语语言测试（雅思、托福等）的学生<BR>
-    &nbsp; &nbsp; &nbsp; 有志于留学海外的学生</p>
+    <p class="post-excerpt">&nbsp; &nbsp; &nbsp; <li>希望提高日常英语和学术英语，全面提升听、说、都、写能力的学生</li>
+    &nbsp; &nbsp; &nbsp; <li>希望能够体验北美的课堂氛围和教学理念，感受北美文化的学生</li>
+    &nbsp; &nbsp; &nbsp; <li>备考英语语言测试（雅思、托福等）的学生</li>
+    &nbsp; &nbsp; &nbsp; <li>有志于留学海外的学生</li></p>
   </div>
   <div class="tile">
     <h2 class="post-title">项目特色</h2>
