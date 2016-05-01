@@ -2,8 +2,8 @@
 layout: article-special
 title: "About Joyseed Education"
 categories: services
-date: 2015-12-29T23:18:10-08:00
-modified: 2015-12-29T23:18:10-08:00
+date: 2016-05-01
+#modified: 2015-12-29T23:18:10-08:00
 excerpt: "Meet our management and learn about the history of our firm."
 tags: [joyseed, Jane Pei]
 ads: false
@@ -13,17 +13,17 @@ author: Jane Pei
 image:
   feature:
   teaser: trendara-marketing-automation-agency.png
-  thumb: rowe-morehouse.jpg
+  #thumb: rowe-morehouse.jpg
 ---
 
-<h6 class="strapline">Trendara is a digital agency and marketing automation systems integrator.</h6>
+<h6 class="strapline">上海杰希教育咨询有限公司是一家注册于上海的现代的教育咨询机构.</h6>
 
-  <p class="body">Incorporated in 2004, Trendara LLC helps companies increase revenue by improving sales and marketing processes and tactics. Our service offering is twofold:</p>
+  <p class="body">公司充分依托北美先进教育资源，引领全球领先的教育理念和教学手段，为广大学生和家长提供高品质的教育咨询服务。</p>
 
-<ol>
-  <li>We provide marketing SaaS systems integration and configuration to help our clients improve and manage their sales and marketing processes.</li>
-  <li>We create and administer online marketing and advertising campaigns — including on-page conversion optimization — to help our clients generate a higher volume of qualified leads and close more sales.</li>
-</ol>
+#<ol>
+#  <li>We provide marketing SaaS systems integration and configuration to help our clients improve and manage their sales and marketing processes.</li>
+#  <li>We create and administer online marketing and advertising campaigns — including on-page conversion optimization — to help our clients generate a higher volume of qualified leads and close more sales.</li>
+#</ol>
 
 Trendara also customizes and administers client Web Analytics, CRM, and Salesforce Automation systems to allow executives maximum clarity and visibility into Marketing ROI and an accurate sales pipeline.
 
