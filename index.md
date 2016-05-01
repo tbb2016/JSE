@@ -2,8 +2,8 @@
 layout: home
 permalink: /
 title: "Marketing Automation Agency"
-date: 2015-12-30T01:40:47-08:00
-modified: 2015-12-30T01:40:54-08:00
+date: 2016-05-01
+#modified: 2015-12-30T01:40:54-08:00
 excerpt: ◎ Trendara is a Digital Agency and affordable Marketing Automation SaaS systems integrator. Discover the L2RM  results we can achieve for you and how easy it is to do biz w/ us!
 tags: [marketing automation agency, l2rm, salesforce integration]
 image:
