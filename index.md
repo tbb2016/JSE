@@ -22,7 +22,9 @@ ads: false
   </div>
   <div class="tile">
     <h2 class="post-title">主营业务</h2>
-    <p class="post-excerpt">&nbsp; &nbsp; &nbsp; 语言学校的交流、咨询和服务；    海外教育的交流、咨询和服务；    文化教育的交流、咨询和服务</p>
+    <p class="post-excerpt">&nbsp; &nbsp; &nbsp; 语言学校的交流、咨询和服务</p>
+    <p>海外教育的交流、咨询和服务</p>
+    <p>文化教育的交流、咨询和服务</p>
   </div>
   <div class="tile">
     <h2 class="post-title">目标群体</h2>
