@@ -7,7 +7,8 @@ teaser: marketing-automation-agency.png #400x250 px default teaser image used in
 locale: en
 timezone: America/Los_Angeles
 
-url: http://trendara.com
+baseurl: /trendara
+url: http://tbb2016.github.io
 #url: //localhost:4000
 #url: //rowe-morehouse.github.io/trendara-public
 
