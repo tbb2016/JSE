@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "About Trendara"
+title: "About Joyseed Edu"
 categories: services
 modified: 2015-12-23T16:49:48-08:00
 excerpt: "Meet our management and learn about the history of our firm."
@@ -16,7 +16,7 @@ image:
 redirect_to:
   - //{{ site.url }}/about/
 ---
-Rowe Morehouse, Executive Director
+Jane Pei, Executive Director
 
 About Trendara:
   <a href="{{ site.url }}/about/">{{ site.url }}/about/</a>
