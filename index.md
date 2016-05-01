@@ -18,7 +18,9 @@ ads: false
 <div class="tiles">
   <div class="tile">
     <h2 class="post-title">运营理念 &amp;&nbsp;LEAD TO REVENUE MANAGEMENT (L2RM)</h2>
-    <p class="post-excerpt"> &nbsp; &nbsp; &nbsp; 语言学习交流、咨询、服务 &nbsp; 海外教育交流、咨询、服务  &nbsp; <mark>lead nurturing, lead scoring, lead lifecycle management, and marketing ROI analytics</mark>. We also work on cross-sell, up-sell, and creating systems to retain and extend customer relationships over time. A well constructed marketing automation strategy can result in <u>50% more sales</u> at a 33% lower cost per lead.<sup> <a href="http://www.marketo.com/assets/uploads/What-is-Marketing-Automation2.pdf" target="_new" itemprop="citation" style="text-decoration: none">†</a></sup></p>
+    <p class="post-excerpt"> &nbsp; &nbsp; &nbsp; 语言学习交流、咨询、服务   
+    海外教育交流、咨询、服务   
+    <mark>lead nurturing, lead scoring, lead lifecycle management, and marketing ROI analytics</mark>. We also work on cross-sell, up-sell, and creating systems to retain and extend customer relationships over time. A well constructed marketing automation strategy can result in <u>50% more sales</u> at a 33% lower cost per lead.<sup> <a href="http://www.marketo.com/assets/uploads/What-is-Marketing-Automation2.pdf" target="_new" itemprop="citation" style="text-decoration: none">†</a></sup></p>
   </div>
   <div class="tile">
     <h2 class="post-title">主营业务</h2>
