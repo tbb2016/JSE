@@ -18,7 +18,7 @@ ads: false
 <div class="tiles">
   <div class="tile">
     <h2 class="post-title">运营理念 &amp;&nbsp;LEAD TO REVENUE MANAGEMENT (L2RM)</h2>
-    <p class="post-excerpt"> &nbsp; &nbsp; &nbsp; 语言学习交流、咨询和服务；     海外教育交流、咨询和服务；     文化教育交流、咨询和服务；    <mark>lead nurturing, lead scoring, lead lifecycle management, and marketing ROI analytics</mark>. We also work on cross-sell, up-sell, and creating systems to retain and extend customer relationships over time. A well constructed marketing automation strategy can result in <u>50% more sales</u> at a 33% lower cost per lead.<sup> <a href="http://www.marketo.com/assets/uploads/What-is-Marketing-Automation2.pdf" target="_new" itemprop="citation" style="text-decoration: none">†</a></sup></p>
+    <p class="post-excerpt"> &nbsp; &nbsp; &nbsp; 充分以学生为中心，提供高品质、差异化的教育咨询服务 <a href="http://www.marketo.com/assets/uploads/What-is-Marketing-Automation2.pdf" target="_new" itemprop="citation" style="text-decoration: none">†</a></sup></p>
   </div>
   <div class="tile">
     <h2 class="post-title">主营业务</h2>
@@ -28,7 +28,9 @@ ads: false
   </div>
   <div class="tile">
     <h2 class="post-title">目标群体</h2>
-    <p class="post-excerpt">&nbsp; &nbsp; &nbsp; Our Google Analytics Certified experts will make sure you are measuring the right data. More importantly, we can turn that data into actionable insight for you to make <mark>profitable business decisions</mark>. Custom dashboards, SQL analysis of large data sets, LTV, ARPU, churn — find out where you're at and move the needle.</p>
+    <p class="post-excerpt">&nbsp; &nbsp; &nbsp; 希望提高日常英语和学术英语，全面提升听、说、都、写能力的学生；         
+     希望能够体验北美的课堂氛围和教学理念，感受北美文化的学生；     
+     备考英语语言测试（雅思、托福等）的学生；</p>
   </div>
   <div class="tile">
     <h2 class="post-title">项目特色</h2>
