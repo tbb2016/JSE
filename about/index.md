@@ -59,10 +59,10 @@ Trendara also customizes and administers client Web Analytics, CRM, and Salesfor
 <hr class="less-margin" />
 
 <address style="margin-left: 25px">
-<strong>Trendara LLC</strong><BR>
-3435 Ocean Park Blvd. Suite 107<BR>
-Santa Monica CA 90405<BR>
-+1 (323) 843-9918
+<strong>杰希教育</strong><BR>
+上海市浦东新区<BR>
+临港工业园区<BR>
++86(21)1234_5678
 </address> 
 
 <div style="display: block; margin: auto auto"><a href="{{ site.url }}/contact/" class="btn-success shadowbox green" style="color: white;"> &nbsp; Request A Free Consultation. &nbsp; </a></div>
