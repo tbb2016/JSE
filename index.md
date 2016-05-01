@@ -18,13 +18,13 @@ ads: false
 <div class="tiles">
   <div class="tile">
     <h2 class="post-title">运营理念</h2>
-    #<p class="post-excerpt"> &nbsp; &nbsp; &nbsp; 充分以学生为中心，提供高品质、差异化的教育咨询服务</p>
+    <p class="post-excerpt"> &nbsp; &nbsp; &nbsp; 充分以学生为中心，提供高品质、差异化的教育咨询服务</p>
   </div>
   <div class="tile">
     <h2 class="post-title">主营业务</h2>
-    <p class="post-excerpt">&nbsp; &nbsp; &nbsp; 语言学校的交流、咨询和服务<BR>
-    &nbsp; &nbsp; &nbsp; 海外教育的交流、咨询和服务<BR>
-    &nbsp; &nbsp; &nbsp; 文化教育的交流、咨询和服务</p>
+    <p class="post-excerpt">&nbsp; &nbsp; &nbsp; <li>语言学校的交流、咨询和服务</li><BR>
+    &nbsp; &nbsp; &nbsp; <li>海外教育的交流、咨询和服务</li><BR>
+    &nbsp; &nbsp; &nbsp; <li>文化教育的交流、咨询和服务</li></p>
   </div>
   <div class="tile">
     <h2 class="post-title">目标群体</h2>
