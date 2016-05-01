@@ -22,11 +22,16 @@ ads: false
   </div>
   <div class="tile">
     <h2 class="post-title">主营业务</h2>
-    <p class="post-excerpt">&nbsp; &nbsp; &nbsp; 语言学校的交流、咨询和服务</BR>海外教育的交流、咨询和服务</BR>文化教育的交流、咨询和服务</p>
+    <p class="post-excerpt">&nbsp; &nbsp; &nbsp; 语言学校的交流、咨询和服务<BR>
+    海外教育的交流、咨询和服务<BR>
+    文化教育的交流、咨询和服务</p>
   </div>
   <div class="tile">
     <h2 class="post-title">目标群体</h2>
-    <p class="post-excerpt">&nbsp; &nbsp; &nbsp; 希望提高日常英语和学术英语，全面提升听、说、都、写能力的学生</BR>希望能够体验北美的课堂氛围和教学理念，感受北美文化的学生</BR>备考英语语言测试（雅思、托福等）的学生</BR>有志于留学海外的学生</p>
+    <p class="post-excerpt">&nbsp; &nbsp; &nbsp; 希望提高日常英语和学术英语，全面提升听、说、都、写能力的学生<BR>
+    希望能够体验北美的课堂氛围和教学理念，感受北美文化的学生<BR>
+    备考英语语言测试（雅思、托福等）的学生<BR>
+    有志于留学海外的学生</p>
   </div>
   <div class="tile">
     <h2 class="post-title">项目特色</h2>
