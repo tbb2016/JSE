@@ -1,8 +1,8 @@
 ---
 layout: article
 title: "Contact Us!"
-date: 2015-12-29T23:27:53-08:00
-modified: 2015-12-29T23:27:53-08:00
+date: 2016-05-01
+modified: 
 excerpt: "Get in touch. Ask us anything!"
 tag: []
 image:
@@ -20,20 +20,20 @@ ads: false
 
     if (document.getElementById('email_field').value == '')
     {
-      alert(' \n  \n ⚠️ Please enter your email address. \n \n ');
+      alert(' \n  \n ⚠️求输入您的电子邮件地址s. \n \n ');
       document.getElementById('email_field').focus();
       return false;
     }
     if(!er_email.test(document.getElementById('email_field').value))
     {
-      alert(' \n  \n ⚠️ You have entered an invalid email address, try again? \n \n ');
+      alert(' \n  \n ⚠️您输入的电子邮件地址是无效的，请再输入一次！ \n \n ');
       document.getElementById('email_field').focus();
       return false;
     }
 
     if (document.getElementById('name_field').value == '')
     {
-      alert(' \n  \n ⚠️ Please enter your first and last name. \n \n ');
+      alert(' \n  \n ⚠️请输入您的姓名. \n \n ');
       document.getElementById('name_field').focus();
       return false;
     }
