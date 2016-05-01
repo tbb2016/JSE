@@ -18,13 +18,11 @@ ads: false
 <div class="tiles">
   <div class="tile">
     <h2 class="post-title">运营理念 &amp;&nbsp;LEAD TO REVENUE MANAGEMENT (L2RM)</h2>
-    <p class="post-excerpt"> &nbsp; &nbsp; &nbsp; 语言学习交流、咨询、服务
-    
-    海外教育交流、咨询、服务  <mark>lead nurturing, lead scoring, lead lifecycle management, and marketing ROI analytics</mark>. We also work on cross-sell, up-sell, and creating systems to retain and extend customer relationships over time. A well constructed marketing automation strategy can result in <u>50% more sales</u> at a 33% lower cost per lead.<sup> <a href="http://www.marketo.com/assets/uploads/What-is-Marketing-Automation2.pdf" target="_new" itemprop="citation" style="text-decoration: none">†</a></sup></p>
+    <p class="post-excerpt"> &nbsp; &nbsp; &nbsp; 语言学习交流、咨询和服务；     海外教育交流、咨询和服务；     文化教育交流、咨询和服务；    <mark>lead nurturing, lead scoring, lead lifecycle management, and marketing ROI analytics</mark>. We also work on cross-sell, up-sell, and creating systems to retain and extend customer relationships over time. A well constructed marketing automation strategy can result in <u>50% more sales</u> at a 33% lower cost per lead.<sup> <a href="http://www.marketo.com/assets/uploads/What-is-Marketing-Automation2.pdf" target="_new" itemprop="citation" style="text-decoration: none">†</a></sup></p>
   </div>
   <div class="tile">
     <h2 class="post-title">主营业务</h2>
-    <p class="post-excerpt">&nbsp; &nbsp; &nbsp; Designing effective cross-client HTML email that makes it to the inbox is an art form requiring a host of esoteric techniques. We're experts. You already know it's crucial to grow your house lists and properly communicate with your prospects at the right times. Let us show you how to leverage autoresponder sequences, behavioral email triggers, automatic list segmentation rules, split testing, and elegant ESP/L2RM/CRM integration.</p>
+    <p class="post-excerpt">&nbsp; &nbsp; &nbsp; 语言学校的交流、咨询和服务；    海外教育的交流、咨询和服务；    文化教育的交流、咨询和服务</p>
   </div>
   <div class="tile">
     <h2 class="post-title">目标群体</h2>
