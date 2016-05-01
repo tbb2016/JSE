@@ -39,7 +39,7 @@ ads: false
     &nbsp; <li>我们为学生提供私人定制的留学咨询服务，为学生的成功之路打下坚实的基础</li></p>
   </div>
   <div class="tile">
-    <a href="{{ site.url }}/value-prop/"><h2 id="learn" class="post-title animated infinite pulse" style="color: blue; text-decoration: underline">Learn about our value proposition and benefits to your business »</h2></a>
+    <a href="{{ site.url }}/value-prop/"><h2 id="learn" class="post-title animated infinite pulse" style="color: blue; text-decoration: underline">想要了解更多的杰希教育的价值理念»</h2></a>
   </div>
 </div>
 
