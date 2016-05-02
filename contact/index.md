@@ -63,13 +63,13 @@ ads: false
     <span style="display:inline-block; margin-bottom: 5px;"><em>∙ Desired outcomes you'd like to see from working with us? …</em></span>
     <textarea id="message" name="message" rows="6" maxlength="2500" autofocus="autofocus" placeholder=""></textarea>
 
-    <label for="email_field">您的电子邮件地址:<sup><span style="color: red">*</span></sup></label>
+    <label for="email_field">电子邮件地址:<sup><span style="color: red">*</span></sup></label>
     <input type="text" id="email_field" name="_replyto" maxlength="140" placeholder="example@domain.com"/>
 
-    <label for="name_field">您的姓名:<sup><span style="color: red">*</span></sup></label>
+    <label for="name_field">姓名:<sup><span style="color: red">*</span></sup></label>
     <input type="text" id="name_field" name="name" maxlength="140" placeholder="First & Lastname"/>
 
-    <label for="phone_field">您的电话号码? <span style="font-weight: 500; font-style: italic">(optional)</span></label>
+    <label for="phone_field">联系电话? <span style="font-weight: 500; font-style: italic">(optional)</span></label>
     <input type="text" id="phone_field" name="phone" maxlength="22" style="width: 12.5rem" placeholder="" /></span>
 
     <input type="text" name="_gotcha" style="display:none">
@@ -77,7 +77,7 @@ ads: false
     <input type="hidden" name="_next" value="{{ site.url }}/thanks/">
 
     <p>
-      <input class="btn-success" id="submit" name="submit" type="submit" value=" Send us this message. " />
+      <input class="btn-success" id="submit" name="submit" type="submit" value=" 发送邮件. " />
     </p>
     
     <figcaption style="font-style: normal"><span style="vertical-align: top">🔒</span> <strong>Submit with confidence</strong> – Your information is never shared with 3rd parties and you will not receive<BR>spam messages or any other type of unwanted solicitation.</figcaption>
