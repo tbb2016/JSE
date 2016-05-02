@@ -67,7 +67,7 @@ ads: false
     <input type="text" id="email_field" name="_replyto" maxlength="140" placeholder="example@domain.com"/>
 
     <label for="name_field">姓名:<sup><span style="color: red">*</span></sup></label>
-    <input type="text" id="name_field" name="name" maxlength="140" placeholder="First & Lastname"/>
+    <input type="text" id="name_field" name="name" maxlength="140" placeholder="姓名"/>
 
     <label for="phone_field">联系电话? <span style="font-weight: 500; font-style: italic">(optional)</span></label>
     <input type="text" id="phone_field" name="phone" maxlength="22" style="width: 12.5rem" placeholder="" /></span>
@@ -77,10 +77,10 @@ ads: false
     <input type="hidden" name="_next" value="{{ site.url }}/thanks/">
 
     <p>
-      <input class="btn-success" id="submit" name="submit" type="submit" value=" 发送邮件. " />
+      <input class="btn-success" id="submit" name="submit" type="submit" value=" 发送邮件" />
     </p>
     
-    <figcaption style="font-style: normal"><span style="vertical-align: top">🔒</span> <strong>Submit with confidence</strong> – Your information is never shared with 3rd parties and you will not receive<BR>spam messages or any other type of unwanted solicitation.</figcaption>
+    <figcaption style="font-style: normal"><span style="vertical-align: top">🔒</span> <strong>信息安全</strong> –您的个人信息在没有得到您本人的允许的情况，不会透露给任何第三方。<BR>您不会从我们这里收到任何无关信息和资讯。</figcaption>
 
   </form>
 </fieldset>
