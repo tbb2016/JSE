@@ -20,13 +20,13 @@ ads: false
 
     if (document.getElementById('email_field').value == '')
     {
-      alert(' \n  \n ⚠️求输入您的电子邮件地址s. \n \n ');
+      alert(' \n  \n ⚠️请输入您的电子邮件地址s. \n \n ');
       document.getElementById('email_field').focus();
       return false;
     }
     if(!er_email.test(document.getElementById('email_field').value))
     {
-      alert(' \n  \n ⚠️您输入的电子邮件地址是无效的，请再输入一次！ \n \n ');
+      alert(' \n  \n ⚠️您输入的电子邮件地址是无效的，请确认后再输入一次！ \n \n ');
       document.getElementById('email_field').focus();
       return false;
     }
@@ -55,7 +55,7 @@ ads: false
     }
     document.write(m);
   </script>
-    <span style="display: none"><h2>What can we help you with?</h2></span>
+    <span style="display: none"><h2>有什么可以帮助你?</h2></span>
 
     <blockquote id="formpage_blockquote" class="animated fadeInUpBig"><p style="font-weight: 700">If we could wave a magic wand and <u>get you to exactly where you need to be</u> with your sales and marketing processes, what would that look like?</p></blockquote>
 
@@ -63,13 +63,13 @@ ads: false
     <span style="display:inline-block; margin-bottom: 5px;"><em>∙ Desired outcomes you'd like to see from working with us? …</em></span>
     <textarea id="message" name="message" rows="6" maxlength="2500" autofocus="autofocus" placeholder=""></textarea>
 
-    <label for="email_field">Your Email:<sup><span style="color: red">*</span></sup></label>
+    <label for="email_field">您的电子邮件地址:<sup><span style="color: red">*</span></sup></label>
     <input type="text" id="email_field" name="_replyto" maxlength="140" placeholder="example@domain.com"/>
 
-    <label for="name_field">Your Name (First and Last):<sup><span style="color: red">*</span></sup></label>
+    <label for="name_field">您的姓名:<sup><span style="color: red">*</span></sup></label>
     <input type="text" id="name_field" name="name" maxlength="140" placeholder="First & Lastname"/>
 
-    <label for="phone_field">Best Phone Number? <span style="font-weight: 500; font-style: italic">(optional)</span></label>
+    <label for="phone_field">您的电话号码? <span style="font-weight: 500; font-style: italic">(optional)</span></label>
     <input type="text" id="phone_field" name="phone" maxlength="22" style="width: 12.5rem" placeholder="" /></span>
 
     <input type="text" name="_gotcha" style="display:none">
