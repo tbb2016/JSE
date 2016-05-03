@@ -73,7 +73,7 @@ ads: false
     <input type="text" id="phone_field" name="phone" maxlength="22" style="width: 12.5rem" placeholder="" /></span>
 
     <input type="text" name="_gotcha" style="display:none">
-    <input type="hidden" name="_subject" value="INQUIRY: trendara.com/contact">
+    <input type="hidden" name="_subject" value="INQUIRY: joyseededu.com/contact">
     <input type="hidden" name="_next" value="{{ site.url }}/thanks/">
 
     <p>
