@@ -1,8 +1,8 @@
 # Site wide configuration
 
 title: 杰希教育
-description: "Foreign Language Online Education"
-logo: trendara_logomark_120x120.png #120x120 px default image used for Twitter summary card
+description: "Foreign Language Education Consultant"
+logo: joyseed_logomark_120x120.png #120x120 px default image used for Twitter summary card
 teaser: marketing-automation-agency.png #400x250 px default teaser image used in image archive grid
 locale: en
 timezone: Asia/Shanghai
@@ -30,8 +30,8 @@ gems:
 
 # Site owner
 owner:
-  name: Rowe Morehouse
-  email: rowe[at]trendara[dot]com
+  name: Jane Pei
+  email: info[at]joyseededu[dot]com
   twitter: rowemore
   bio: "code ∙ sales ∙ learning ∙ leadership"
   google:
