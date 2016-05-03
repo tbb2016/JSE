@@ -1,15 +1,15 @@
 # Footer navigation links
 
-- title: Home
+- title: 首页
   url: /
 
-- title: More Articles
+- title: 服务
   url: /services/
 
-- title: About
+- title: 关于我们
   url: /about/
 
-- title: Contact
+- title: 联系我们
   url: /contact/
 
 - title: Terms
