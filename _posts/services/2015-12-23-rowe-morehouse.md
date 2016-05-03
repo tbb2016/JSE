@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "About Joyseed Edu"
+title: "关于杰希教育"
 categories: services
 modified: 2015-12-23T16:49:48-08:00
 excerpt: "Meet our management and learn about the history of our firm."
