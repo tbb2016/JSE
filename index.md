@@ -18,7 +18,7 @@ ads: false
 <div class="tiles">
   <div class="tile">
     <h2 class="post-title" style="color: pink">运营理念</h2>
-    <p class="post-excerpt"> &nbsp; <li>充分以学生为中心，提供高品质、差异化的教育咨询服务</li></p>
+    <p class="post-excerpt"> <li>充分以学生为中心，提供高品质、差异化的教育咨询服务</li></p>
   </div>
   <div class="tile">
     <h2 class="post-title" style="color: pink">主营业务</h2>
