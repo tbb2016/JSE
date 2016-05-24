@@ -47,8 +47,8 @@ That said, we are not the type of "advisors" or "consultants" who sit on the sid
   Sincerely,<BR><BR>
 
   <figcaption style="font-style: normal">
-    <strong>Rowe Morehouse</strong><BR>Executive Director<br>
-    📞 +1 (323) 843-9918<BR><BR>
+    <strong>Jane Pei</strong><BR>Executive Director<br>
+    📞 +86 (21) 1234-5678<BR><BR>
   </figcaption>
 </div>
 <input action="action" type="button" class="btn-success" value="&laquo; Go Back To The Inquiry Form &amp Add More Detail " onclick="window.history.go(-1); return false;" />
