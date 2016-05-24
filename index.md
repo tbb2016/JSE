@@ -4,7 +4,7 @@ permalink: /
 title: "现代化的教育咨询服务"
 date: 2016-05-01
 #modified: 2015-12-30T01:40:54-08:00
-excerpt: ◎ 杰希教育科技有限公司是一家现代化的教育服务咨询公司.
+excerpt: ◎ 则喜教育科技有限公司是一家现代化的教育服务咨询公司.
 tags: [教育, 留学，咨询]
 image:
   feature:
@@ -14,7 +14,7 @@ author: Jane Pei
 share: false
 ads: false
 ---
-<h1 class="strapline">杰希教育是一家现代化的教育发展和咨询服务公司.</h1>
+<h1 class="strapline">则喜教育是一家现代化的教育发展和咨询服务公司.</h1>
 <div class="tiles">
   <div class="tile">
     <h2 class="post-title" style="color: pink">运营理念</h2>
