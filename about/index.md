@@ -25,7 +25,7 @@ image:
 </ol>
 
 <h6 class="strapline">公司的愿景：</h6>
-  <p class="body">&nbsp; &nbsp;&nbsp; &nbsp; 播种快乐学习之芽  开启成功求学之门</p>
+  <p class="body">&nbsp; &+nbsp; &nbsp; 播种快乐学习之芽  开启成功求学之门</p>
 
 ---
 ### MANAGEMENT
