@@ -16,7 +16,7 @@ image:
   #thumb: rowe-morehouse.jpg
 ---
 
-<h6 class="strapline">上海则喜教育科技有限公司是一家注册于上海的现代的教育咨询机构.</h6>
+<h6 class="strapline">上海则思教育科技有限公司是一家注册于上海的现代的教育咨询机构.</h6>
   <p class="body">&nbsp; &nbsp; &nbsp; 公司充分依托北美先进教育资源，引领全球领先的教育理念和教学手段，为广大学生和家长提供高品质的教育咨询服务。</p>
 
 <ol>
@@ -59,9 +59,8 @@ image:
 <hr class="less-margin" />
 
 <address style="margin-left: 25px">
-<strong>上海则喜教育科技有限公司</strong><BR>
+<strong>上海则思教育科技有限公司</strong><BR>
 上海市宝山区<BR>
-临港工业园区<BR>
 +86(21)1234_5678
 </address> 
 
