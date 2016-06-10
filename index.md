@@ -42,7 +42,7 @@ ads: false
     <li>精品化小班授课</li>
     <li>差异化教育，因材施教</li>
     <li>丰富多彩的课堂内容</li>
-    <li>灵活的学习时间和进度</li>
+    <li>灵活的学习时间和进度</li></p>
   </div>
   <div class="tile">
     <a href="{{ site.url }}/value-prop/"><h2 id="learn" class="post-title animated infinite pulse" style="color: blue; text-decoration: underline">想要了解更多的则喜教育的价值理念»</h2></a>
