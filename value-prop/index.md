@@ -5,11 +5,7 @@ date: 2015-12-29T21:12:22-08:00
 modified: 2015-12-29T21:12:22-08:00
 excerpt: Explore our Marketing Automation processes and tactics. Learn how we engage.
 tags: [marketing automation agency, l2rm, salesforce integration]
-image:
-  feature:
-  teaser: marketing-automation-agency.png
-  thumb: marketing-automation-agency.png
-author: Rowe Morehouse
+author:
 share: false
 ads: false
 ---
