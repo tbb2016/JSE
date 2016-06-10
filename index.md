@@ -28,16 +28,21 @@ ads: false
   </div>
   <div class="tile">
     <h2 class="post-title" style="color: pink">目标群体</h2>
-    <p class="post-excerpt"><li>希望提高日常英语和学术英语，全面提升听、说、都、写能力的学生</li>
-    <li>希望能够体验北美的课堂氛围和教学理念，感受北美文化的学生</li>
-    <li>备考英语语言测试（雅思、托福等）的学生</li>
-    <li>有志于留学海外的学生</li></p>
+    <p class="post-excerpt"><li>希望提高听、说、都、写各方面英语能力的学生</li>
+    <li>希望能够体验北美先进的教学理念和课堂模式的学生</li>
+    <li>希望感受西方文化，学习西方思维的学生</li>
+    <li>希望提高在校英语成绩、学习课外英语的学生</li>
+    <li>希望为未来出国留学打好坚实基础的学生</li></p>
   </div>
   <div class="tile">
-    <h2 class="post-title" style="color: pink">项目特色</h2>
+    <h2 class="post-title" style="color: pink">课堂特色</h2>
     <p class="post-excerpt">
-    <li>为学生提供高端、精品化的英语语言学习项目</li>
-    <li>为学生提供私人定制的留学咨询服务，为学生的成功之路打下坚实的基础</li></p>
+    <li>100%北美专业教师授课</li>
+    <li>全英文语言学校环境</li>
+    <li>精品化小班授课</li>
+    <li>差异化教育，因材施教</li>
+    <li>丰富多彩的课堂内容</li>
+    <li>灵活的学习时间和进度</li>
   </div>
   <div class="tile">
     <a href="{{ site.url }}/value-prop/"><h2 id="learn" class="post-title animated infinite pulse" style="color: blue; text-decoration: underline">想要了解更多的则喜教育的价值理念»</h2></a>
