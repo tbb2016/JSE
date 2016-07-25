@@ -14,7 +14,7 @@ author: Jane Pei
 share: false
 ads: false
 ---
-<body bgcolor="orange">
+<body bgcolor="#FFEE99">
 <h1 class="strapline">则思教育是一家现代化的教育发展和咨询服务公司.</h1>
 <div class="tiles">
   <div class="tile">
