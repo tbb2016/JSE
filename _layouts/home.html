@@ -42,8 +42,6 @@
     </style>
   </head>
   
-  <body style="background-image:url(/images/mainpage.jpg); background-repeat:repeat-y;"></body>
-  
   <body>
     <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-WTXTV8"
     height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
@@ -57,13 +55,14 @@
     {% include header.html %}
     {% include navigation-sliding.html %}
 
-    <div id="video-container">
+    <!--div id="video-container">
       <!--video class="fade-in one" id="video" loop autoplay muted"-->
         <!--source src="{{ site.url }}/images/video_back.mp4" type="video/mp4"-->
         <!--source src="{{ site.url }}/images/video_back.webm" type="video/webm"-->
         <!--source src="{{ site.url }}/images/video_back.ogv" type="video/ogg"-->
       <!--/video-->
-
+    <div id="image-container" style="position:absolute; left:0px; top:0px; width:80%; height:80%">  
+      <img src="image/mainpage.jpg" width="80%" height="80%"/>  
       
       <div id="overlay-content" class="wrap page-lead-content">
         <h2 class="headline">上海则思教育科技有限公司</h2>
