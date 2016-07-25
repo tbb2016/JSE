@@ -14,8 +14,9 @@ author: Jane Pei
 share: false
 ads: false
 ---
-<header id="index" style="background-color:#FFDD55">
+
 <h1 class="strapline" >则思教育是一家现代化的教育发展和咨询服务公司.</h1>
+<header id="index" style="background-color:#FFDD55">
 <!--div style="background-color:#FFDD55;  overflow: auto;" class="tiles"-->
 <div class="tiles">
   <div class="tile">
