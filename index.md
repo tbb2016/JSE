@@ -18,19 +18,19 @@ ads: false
 <div class="tiles">
   <div class="tile">
     <h2 class="post-title" style="color: #000000">运营理念</h2>
-    <p class="post-excerpt" style="color: #003377> 
+    <p class="post-excerpt" style="color: ##0000FF">
     <li>充分以学生为中心，提供高品质、差异化的教育咨询服务</li></p>
   </div>
   <div class="tile">
     <h2 class="post-title" style="color: #000000">主营业务</h2>
-    <p class="post-excerpt" style="color: #003377>
+    <p class="post-excerpt" style="color: ##0000FF">
     <li>语言学校的交流、咨询和服务</li>
     <li>海外教育的交流、咨询和服务</li>
     <li>文化教育的交流、咨询和服务</li></p>
   </div>
   <div class="tile">
     <h2 class="post-title" style="color: #000000">目标群体</h2>
-    <p class="post-excerpt" style="color: #003377">
+    <p class="post-excerpt" style="color: ##0000FF">
     <li>希望提高听、说、都、写各方面英语能力的学生</li>
     <li>希望能够体验北美先进的教学理念和课堂模式的学生</li>
     <li>希望感受西方文化，学习西方思维的学生</li>
@@ -39,7 +39,7 @@ ads: false
   </div>
   <div class="tile">
     <h2 class="post-title" style="color: #000000">课堂特色</h2>
-    <p class="post-excerpt" style="color: #003377">
+    <p class="post-excerpt" style="color: ##0000FF">
     <li>100%北美专业教师授课</li>
     <li>全英文语言学校环境</li>
     <li>精品化小班授课</li>
