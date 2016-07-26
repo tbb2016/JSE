@@ -1,4 +1,5 @@
-<footer role="contentinfo" id="site-footer" style="background-color: #AAAAAA">
+<header id="footer" style="background-color: #AAAAAA">
+<footer role="contentinfo" id="site-footer">
 	<nav role="navigation" class="menu bottom-menu">
 		<ul class="menu-item">
 		{% for link in site.data.footer %}
@@ -13,6 +14,7 @@
 	</nav><!-- /.bottom-menu -->
   <a href="{{ site.url }}"><img src="{{ site.url }}/images/joyseed_logo_lockup_264x122.png" width=
   "132" height="61" style="margin-left: -8px; margin-bottom: -10px" border=0></a>
-  <p class="copyright">&#169; {{ site.time | date: '%Y' }} <a href="{{ site.url }}">{{ site.title }}</a> &nbsp; ∙ &nbsp; 📞&nbsp; +86 (21) 1234-5678 &nbsp; ∙ &nbsp;  <a href="{{ site.url }}/contact/">Email Us</a>
+  <p><background="#AAAAAA" color="#FFFFFF" class="copyright">&#169; {{ site.time | date: '%Y' }} <a href="{{ site.url }}">{{ site.title }}</a> &nbsp; ∙ &nbsp; 📞&nbsp; +86 (21) 1234-5678 &nbsp; ∙ &nbsp;  <a href="{{ site.url }}/contact/">Email Us</a>
   </p>
 </footer>
+</header>
