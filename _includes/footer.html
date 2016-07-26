@@ -1,5 +1,5 @@
 <!--header id="footer"-->
-<footer role="contentinfo" id="site-footer" style="background-color: "#66666"; color="#FFFFFF" face="华文细黑"; background-image: url("images/kids-009.jpg"); width: auto">
+<footer role="contentinfo" id="site-footer" style="background-color: "#AAAAAA"; color="#FFFFFF" face="华文细黑"; background-image: url("images/kids-009.jpg"); width: auto">
 	<nav role="navigation" class="menu bottom-menu">
 		<ul class="menu-item">
 		{% for link in site.data.footer %}
@@ -8,13 +8,13 @@
         {% else %}
         {% assign domain = site.url %}
       {% endif %}
-			<li><a href="{{ domain }}{{ link.url }}" {% if link.url contains 'http' %}target="_blank"{% endif %}><font background="#666666" color="#FFFFFF" face="华文细黑">{{ link.title }}</a></li>
+			<li><a href="{{ domain }}{{ link.url }}" {% if link.url contains 'http' %}target="_blank"{% endif %}><font background="#AAAAAA" color="#FFFFFF" face="华文细黑">{{ link.title }}</a></li>
 		{% endfor %}
 		</ul>
 	</nav><!-- /.bottom-menu -->
   <a href="{{ site.url }}"><img src="{{ site.url }}/images/joyseed_logo_lockup_264x122.png" width=
   "132" height="61" style="margin-left: 0; margin-bottom: 0; border=0;"></a>
-  <p><font background="#FFFFFF">&#169; {{ site.time | date: '%Y' }} <a href="{{ site.url }}"><font background="#666666" color="#FFFFFF" face="华文细黑">{{ site.title }}</a> &nbsp; ∙ &nbsp; 📞&nbsp; +86 (21) 1234-5678 &nbsp; ∙ &nbsp;  <a href="{{ site.url }}/contact/"><font background="#666666" color="#FFFFFF" face="华文细黑">>Email Us</font></a>
+  <p><font background="#AAAAAA" color="#FFFFFF" face="华文细黑">&#169; {{ site.time | date: '%Y' }} <a href="{{ site.url }}"><font background="#AAAAAA" color="#FFFFFF" face="华文细黑">{{ site.title }}</a> &nbsp; ∙ &nbsp; 📞&nbsp; +86 (21) 1234-5678 &nbsp; ∙ &nbsp;  <a href="{{ site.url }}/contact/"><font background="#AAAAAA" color="#FFFFFF" face="华文细黑">>Email Us</font></a>
   </font></p>
 </footer>
 <!--/header-->
