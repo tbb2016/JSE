@@ -16,7 +16,7 @@ ads: false
 ---
 
 <h1 class="strapline" >则思教育是一家现代化的教育发展和咨询服务公司.</h1>
-<div class="tiles" style="position: relative; background-color: #FFFF77;">
+<div class="tiles" style="position: relative; background-color: #FFFF77; display: block">
   <div class="tile" style="position: relative; background-color: #FFFF77;">
     <h2 class="post-title" style="color: #000000">运营理念</h2>
     <p class="post-excerpt" style="color: ##0000FF">
