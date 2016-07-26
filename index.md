@@ -16,6 +16,7 @@ ads: false
 ---
 
 <h1 class="strapline" >则思教育是一家现代化的教育发展和咨询服务公司.</h1>
+<body style="background-color:#FFDD55">
 <div style="background-color:#FFDD55;  overflow: auto;" class="tiles">
   <div class="tile">
     <h2 class="post-title" style="color: #000000">运营理念</h2>
@@ -52,3 +53,4 @@ ads: false
     <a href="{{ site.url }}/value-prop/"><h2 id="learn" class="post-title animated infinite pulse" style="color: blue; text-decoration: underline">想要了解更多的则思教育的价值理念»</h2></a>
   </div>
 </div>
+</body>
