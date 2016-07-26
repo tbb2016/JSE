@@ -14,7 +14,7 @@ author: Jane Pei
 share: false
 ads: false
 ---
-<body style="background-color: #FFFF77;">
+
 <h1 class="strapline" >则思教育是一家现代化的教育发展和咨询服务公司.</h1>
 <div id="main_titles" class="tiles">
   <div class="tile">
@@ -52,4 +52,3 @@ ads: false
     <a href="{{ site.url }}/value-prop/"><h2 id="learn" class="post-title animated infinite pulse" style="color: blue; text-decoration: underline">想要了解更多的则思教育的价值理念»</h2></a>
   </div>
 </div>
-</body>
