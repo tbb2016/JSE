@@ -15,7 +15,7 @@ share: false
 ads: false
 ---
 
-<h1 class="strapline"><p class="post-excerpt" style="size: 10 color: #0000FF face：华文细黑">我们的五大优势</h1>
+<h1 class="strapline"><p class="post-excerpt" style="color: #000000 face：华文细黑">我们的五大优势</p></h1>
 <div id="main_titles" class="tiles">
   <div class="tile">
     <!--img src="images/kids-009.jpg" width="90%" height="90%" style="horizental-align: middle"-->
@@ -24,7 +24,7 @@ ads: false
     <li>充分以学生为中心，提供高品质、差异化的教育咨询服务</li></p>
   </div>
   <div class="tile">
-    <img src="images/kids-009.jpg" width="90%" height="90%" style="horizental-align: middle">
+    <!--img src="images/kids-009.jpg" width="90%" height="90%" style="horizental-align: middle"-->
     <h2 class="post-title" style="color: #000000 face：华文细黑">沉浸式语言学习环境</h2>
     <p class="post-excerpt" style="color: ##0000FF">
     <li>语言学校的交流、咨询和服务</li>
