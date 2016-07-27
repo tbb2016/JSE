@@ -10,7 +10,9 @@ share: false
 ads: false
 ---
 
-[!class structure](../../images/class.png)
+<div align="center">
+<img src="../images/class.png"  alt="class struct"/>
+</div>
 
 JoySeed 课堂带给学生受益终身的能力：
 
