@@ -15,9 +15,8 @@ share: false
 ads: false
 ---
 
-<h1 class="strapline" >上海则思教育是一家现代化的教育发展和咨询服务公司</h1>
+<!--h1 class="strapline" >上海则思教育是一家现代化的教育发展和咨询服务公司</h1-->
 <div id="main_titles" class="tiles">
-<p style="size: 8 color: #000000">我们的四大优势</p>
   <div class="tile">
     <!--img src="images/kids-009.jpg" width="90%" height="90%" style="horizental-align: middle"-->
     <h2 class="post-title" style="color: #000000">北美的优秀外教团队</h2>
