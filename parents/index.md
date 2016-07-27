@@ -17,7 +17,8 @@ image:
       <img src="../images/kids-009_1.jpg"  alt="feedback"/>
     </div>
     
-        <br/>Hannah爸爸：                         <br/><br/>
+        <br/>
+    Hannah爸爸：                         <br/><br/>
     “我的女儿在JoySeed上课感觉非常棒。   <br/>
     外教是加拿大正式注册教师，口音纯     <br/>
     正，更重要的因为是真正的老师，懂     <br/>
