@@ -27,12 +27,13 @@ ads: false
     <!--img src="images/kids-009.jpg" width="90%" height="90%" style="horizental-align: middle"-->
     <h2 class="post-title" style="color: #000000">沉浸式的语言学习环境</h2>
     <p class="post-excerpt" style="color: ##0000FF">
-    <li>语言学校的交流、咨询和服务</li>
-    <li>海外教育的交流、咨询和服务</li>
-    <li>文化教育的交流、咨询和服务</li></p>
+    <li>100%北美籍外教</li>
+    <li>100%北美名校毕业</li>
+    <li>100%持有教授资质</li>
+    <li>100%JoySeed严格的筛选机制，只选择最优秀的外教来保证教学质量</li></p>
   </div>
   <div class="tile">
-    <h2 class="post-title" style="color: #000000">目标群体</h2>
+    <h2 class="post-title" style="color: #000000">权威的学习内容</h2>
     <p class="post-excerpt" style="color: ##0000FF">
     <li>希望提高听、说、都、写各方面英语能力的学生</li>
     <li>希望能够体验北美先进的教学理念和课堂模式的学生</li>
@@ -41,7 +42,7 @@ ads: false
     <li>希望为未来出国留学打好坚实基础的学生</li></p>
   </div>
   <div class="tile">
-    <h2 class="post-title" style="color: #000000">课堂特色</h2>
+    <h2 class="post-title" style="color: #000000">灵活高效的学习方式</h2>
     <p class="post-excerpt" style="color: ##0000FF">
     <li>100%北美专业教师授课</li>
     <li>全英文语言学校环境</li>
