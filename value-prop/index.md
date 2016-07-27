@@ -9,7 +9,7 @@ author:
 share: false
 ads: false
 ---
-<font color="black">
+
 ##MaHua是什么?
 一个在线编辑markdown文档的编辑器
 
@@ -48,4 +48,3 @@ ads: false
 * [jquery](http://jquery.com)
 
 ##关于作者
-</font>
