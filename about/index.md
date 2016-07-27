@@ -1,5 +1,5 @@
 ---
-layout: article-special
+layout: article
 title: "JoySeed 基本介绍"
 categories: services
 date: 2016-05-01
