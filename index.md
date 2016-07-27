@@ -16,14 +16,14 @@ ads: false
 ---
 
 <h1 class="strapline">我们的五大优势</h1>
-<div id="main_titles" class="tiles">
-  <div class="tile1">
+<div id="main_titles" class="tiles"><p style="color: #000000">我们的五大优势</p>
+  <div class="tile">
     <!--img src="images/kids-009.jpg" width="90%" height="90%" style="horizental-align: middle"-->
     <h2 class="post-title" style="color: #000000">北美优秀外教团队</h2>
     <p class="post-excerpt" style="color: ##0000FF">
     <li>充分以学生为中心，提供高品质、差异化的教育咨询服务</li></p>
   </div>
-  <div class="tile2">
+  <div class="tile">
     <!--img src="images/kids-009.jpg" width="90%" height="90%" style="horizental-align: middle"-->
     <h2 class="post-title" style="color: #000000">沉浸式语言学习环境</h2>
     <p class="post-excerpt" style="color: ##0000FF">
@@ -31,7 +31,7 @@ ads: false
     <li>海外教育的交流、咨询和服务</li>
     <li>文化教育的交流、咨询和服务</li></p>
   </div>
-  <div class="tile3">
+  <div class="tile">
     <h2 class="post-title" style="color: #000000">精品化的小班授课</h2>
     <p class="post-excerpt" style="color: ##0000FF">
     <li>希望提高听、说、都、写各方面英语能力的学生</li>
@@ -40,7 +40,7 @@ ads: false
     <li>希望提高在校英语成绩、学习课外英语的学生</li>
     <li>希望为未来出国留学打好坚实基础的学生</li></p>
   </div>
-  <div class="tile4">
+  <div class="tile">
     <h2 class="post-title" style="color: #000000">权威的学习内容</h2>
     <p class="post-excerpt" style="color: ##0000FF">
     <li>100%北美专业教师授课</li>
@@ -50,7 +50,7 @@ ads: false
     <li>丰富多彩的课堂内容</li>
     <li>灵活的学习时间和进度</li></p>
   </div>
-  <div class="tile5">
+  <div class="tile1">
     <h2 class="post-title" style="color: #000000">灵活高效的学习方式</h2>
     <p class="post-excerpt" style="color: ##0000FF">
     <li>100%北美专业教师授课</li>
