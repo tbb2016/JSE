@@ -15,7 +15,7 @@ image:
 <div align="left">
 <img src="../images/kids-009_1.jpg"  alt="feedback"/>
 </div>
-Hannah爸爸：
+Hannah爸爸：                         <br/>
 “我的女儿在JoySeed上课感觉非常棒。   <br/>
 外教是加拿大正式注册教师，口音纯     <br/>
 正，更重要的因为是真正的老师，懂     <br/>
@@ -24,7 +24,7 @@ Hannah爸爸：
 <div align="left">
 <img src="../images/kids-009_1.jpg"  alt="feedback"/>
 </div>
-Joe妈妈：
+Joe妈妈：                              <br/>
 “即将升入四年级的儿子从未参加过        <br/>
 任何课外辅导班，他从心底里是比         <br/>
 较排斥辅导班的。JoySeed课堂的简        <br/>
@@ -39,16 +39,16 @@ Joe妈妈：
 <div align="left">
 <img src="../images/kids-009_1.jpg"  alt="feedback"/>
 </div>
-Julie爸爸：
+Julie爸爸：                            <br/>
 “教材的难度适中，非常适合女儿的学      <br/>
 习。老师也非常有耐心，一遍一遍地       <br/>
 纠正小孩的发音。女儿目前的口音越       <br/>
-来越地道了。”                           <br/><br/>
+来越地道了。”                          <br/><br/>
   
 <div align="left">
 <img src="../images/kids-009_1.jpg"  alt="feedback"/>
 </div>
-Coco妈妈：
+Coco妈妈：                            <br/>
 “10岁的女儿自第一次试课就喜欢上了     <br/>
 JoySeed课堂，现在每周都盼望着上课     <br/>
 时间。问她为什么，她觉得这个上课      <br/>
