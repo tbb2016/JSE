@@ -1,11 +1,11 @@
 <ul class="menu-item">
-	<li class="home"><a href="/"><font background="#000000" color="#FFFFFF" face="华文细黑">{{ site.title }}</a></li>
+	<li class="home"><a href="/"><font background="#000000" color="#880000" face="华文细黑">{{ site.title }}</a></li>
 	{% for link in site.data.navigation %}
     {% if link.url contains 'http' %}
         {% assign domain = '' %}
         {% else %}
         {% assign domain = site.url %}
     {% endif %}
-    <li><a href="{{ domain }}{{ link.url }}" {% if link.url contains 'http' %}target="_blank"{% endif %}><font background="#000000" color="#FFFFFF" face="华文细黑">{{ link.title }}</a></li>
+    <li><a href="{{ domain }}{{ link.url }}" {% if link.url contains 'http' %}target="_blank"{% endif %}><font background="#000000" color="#880000" face="华文细黑">{{ link.title }}</a></li>
   {% endfor %}
 </ul>
