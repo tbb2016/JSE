@@ -21,35 +21,31 @@ ads: false
     <!--img src="images/kids-009.jpg" width="90%" height="90%" style="horizental-align: middle"-->
     <h2 class="post-title" style="color: #000000">北美的优秀外教团队</h2>
     <p class="post-excerpt" style="color: ##0000FF">
-    <li>充分以学生为中心，提供高品质、差异化的教育咨询服务</li></p>
+    <li>100%北美籍外教</li>
+    <li>100%北美名校毕业</li>
+    <li>100%持有教授资质</li>
+    <li>JoySeed严格的筛选机制，只选择最优秀的外教来保证教学质量</li></p>
   </div>
   <div class="tile">
     <!--img src="images/kids-009.jpg" width="90%" height="90%" style="horizental-align: middle"-->
     <h2 class="post-title" style="color: #000000">沉浸式的语言学习环境</h2>
     <p class="post-excerpt" style="color: ##0000FF">
-    <li>100%北美籍外教</li>
-    <li>100%北美名校毕业</li>
-    <li>100%持有教授资质</li>
-    <li>100%JoySeed严格的筛选机制，只选择最优秀的外教来保证教学质量</li></p>
+    <li>包括阅读、听力、对话、唱歌和游戏等丰富的课堂内容，兼顾趣味性和学术性</li>
+    <li>摆脱中文思维限制，真正融入英文语境，快速提高语感</li></p>
+  </div>
+  <div class="tile">
+    <h2 class="post-title" style="color: #000000">精品化的小班授课</h2>
+    <p class="post-excerpt" style="color: ##0000FF">
+    <li>每个班级不超过3名学生，保证每个学生的关注度和互动时间</li>
+    <li>每位学生上课前都需要经过外教的专业测试，以便安排最合适的老师和教材</li>
+    <li>每个课堂都配有专业的中文助教，为学生解决各种问题，提供优质服务</li></p>
   </div>
   <div class="tile">
     <h2 class="post-title" style="color: #000000">权威的学习内容</h2>
     <p class="post-excerpt" style="color: ##0000FF">
-    <li>希望提高听、说、都、写各方面英语能力的学生</li>
-    <li>希望能够体验北美先进的教学理念和课堂模式的学生</li>
-    <li>希望感受西方文化，学习西方思维的学生</li>
-    <li>希望提高在校英语成绩、学习课外英语的学生</li>
-    <li>希望为未来出国留学打好坚实基础的学生</li></p>
-  </div>
-  <div class="tile">
-    <h2 class="post-title" style="color: #000000">灵活高效的学习方式</h2>
-    <p class="post-excerpt" style="color: ##0000FF">
-    <li>100%北美专业教师授课</li>
-    <li>全英文语言学校环境</li>
-    <li>精品化小班授课</li>
-    <li>差异化教育，因材施教</li>
-    <li>丰富多彩的课堂内容</li>
-    <li>灵活的学习时间和进度</li></p>
+    <li>采用剑桥英语专业教材，根据学生的实际情况增加辅助教学内容，因材施教</li>
+    <li>学生经过“课前预习-上课-课后配套练习”三个阶段，充分保证教学效果</li>
+    <li>学生自由决定学习时间和地点，解决奔波之苦</li></p>
   </div>
   <div class="tile">
     <a href="{{ site.url }}/value-prop/"><h2 id="learn" class="post-title animated infinite pulse" style="color: blue; text-decoration: underline">想要了解更多的则思教育的价值理念»</h2></a>
