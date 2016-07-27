@@ -15,24 +15,24 @@ share: false
 ads: false
 ---
 
-<h1 class="strapline" >则思教育是一家现代化的教育发展和咨询服务公司.</h1>
-<div id="main_titles" class="tiles">
+<h1 class="strapline" ></h1>上海则思教育是一家现代化的教育发展和咨询服务公司
+<div id="main_titles" class="tiles"><p style="size: 8 color: #000000 face: 华文细黑">我们的</p><p style="size: 10 color: #000000 face: 华文细黑">五大优势</p>
   <div class="tile">
-    <img src="images/kids-009.jpg" width="90%" height="90%" style="horizental-align: middle">
-    <h2 class="post-title" style="color: #000000">运营理念</h2>
+    <!--img src="images/kids-009.jpg" width="90%" height="90%" style="horizental-align: middle"-->
+    <h2 class="post-title" style="color: #000000">北美优秀的外教团队</h2>
     <p class="post-excerpt" style="color: ##0000FF">
     <li>充分以学生为中心，提供高品质、差异化的教育咨询服务</li></p>
   </div>
   <div class="tile">
-    <img src="images/kids-009.jpg" width="90%" height="90%" style="horizental-align: middle">
-    <h2 class="post-title" style="color: #000000">主营业务</h2>
+    <!--img src="images/kids-009.jpg" width="90%" height="90%" style="horizental-align: middle"-->
+    <h2 class="post-title" style="color: #000000">沉浸式的语言学习环境</h2>
     <p class="post-excerpt" style="color: ##0000FF">
     <li>语言学校的交流、咨询和服务</li>
     <li>海外教育的交流、咨询和服务</li>
     <li>文化教育的交流、咨询和服务</li></p>
   </div>
   <div class="tile">
-    <h2 class="post-title" style="color: #000000">目标群体</h2>
+    <h2 class="post-title" style="color: #000000">精品化的小班授课</h2>
     <p class="post-excerpt" style="color: ##0000FF">
     <li>希望提高听、说、都、写各方面英语能力的学生</li>
     <li>希望能够体验北美先进的教学理念和课堂模式的学生</li>
@@ -41,7 +41,7 @@ ads: false
     <li>希望为未来出国留学打好坚实基础的学生</li></p>
   </div>
   <div class="tile">
-    <h2 class="post-title" style="color: #000000">课堂特色</h2>
+    <h2 class="post-title" style="color: #000000">权威的学习内容</h2>
     <p class="post-excerpt" style="color: ##0000FF">
     <li>100%北美专业教师授课</li>
     <li>全英文语言学校环境</li>
@@ -50,8 +50,8 @@ ads: false
     <li>丰富多彩的课堂内容</li>
     <li>灵活的学习时间和进度</li></p>
   </div>
-  <div class="tile">
+  <!--div class="tile">
     <a href="{{ site.url }}/value-prop/"><h2 id="learn" class="post-title animated infinite pulse" style="color: blue; text-decoration: underline">想要了解更多的则思教育的价值理念»</h2></a>
-  </div>
+  </div-->
 </div>
 
