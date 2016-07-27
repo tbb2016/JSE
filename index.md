@@ -15,17 +15,17 @@ share: false
 ads: false
 ---
 
-<h1 class="strapline" >则思教育是一家现代化的教育发展和咨询服务公司.</h1>
+<h1 class="strapline" >上海则思教育是一家现代化的教育发展和咨询服务公司</h1>
 <div id="main_titles" class="tiles">
   <div class="tile">
-    <img src="images/kids-009.jpg" width="90%" height="90%" style="horizental-align: middle">
-    <h2 class="post-title" style="color: #000000">运营理念</h2>
+    <!--img src="images/kids-009.jpg" width="90%" height="90%" style="horizental-align: middle"-->
+    <h2 class="post-title" style="color: #000000">北美的优秀外教团队</h2>
     <p class="post-excerpt" style="color: ##0000FF">
     <li>充分以学生为中心，提供高品质、差异化的教育咨询服务</li></p>
   </div>
   <div class="tile">
-    <img src="images/kids-009.jpg" width="90%" height="90%" style="horizental-align: middle">
-    <h2 class="post-title" style="color: #000000">主营业务</h2>
+    <!--img src="images/kids-009.jpg" width="90%" height="90%" style="horizental-align: middle"-->
+    <h2 class="post-title" style="color: #000000">沉浸式的语言学习环境</h2>
     <p class="post-excerpt" style="color: ##0000FF">
     <li>语言学校的交流、咨询和服务</li>
     <li>海外教育的交流、咨询和服务</li>
