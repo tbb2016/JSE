@@ -27,22 +27,15 @@ image:
 
 ---
 ### MANAGEMENT
-
-<figure class="third">
 <div>
   <h6>Jane Pei, Executive Director</h6>
- 
 </div>
-</figure>
 
 <hr class="less-margin" />
 
-<figure class="third">
 <div>
   <h6>Tony Wang, VP Engineering</h6>
-
 </div>
-</figure>
 
 <hr class="less-margin" />
 
