@@ -3,14 +3,17 @@
 - title: 首页
   url: /
 
-- title: 价值
+- title: 课程结构
   url: /value-prop/
   
-- title: 服务
+- title: 北美师资
   url: /services/
 
+- title: 用户口碑
+  url: /contact/
+  
+- title: 预约试听
+  url: /contact/
+  
 - title: 关于我们
   url: /about/
-
-- title: 联系我们
-  url: /contact/
