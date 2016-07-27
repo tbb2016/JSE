@@ -12,8 +12,6 @@ share: false
 author: Jane Pei
 image:
   feature:
-  teaser: trendara-marketing-automation-agency.png
-  #thumb: rowe-morehouse.jpg
 ---
 
 <h6 class="strapline">上海则思教育科技有限公司是一家注册于上海的现代的教育咨询机构.</h6>
