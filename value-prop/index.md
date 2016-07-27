@@ -12,11 +12,11 @@ ads: false
 
 <!--h1 class="strapline" >上海则思教育是一家现代化的教育发展和咨询服务公司</h1-->
 <div id="main_titles" class="tiles">
-  <div class="tile1">
+  <div class="tile">
     <h2 class="post-title" style="color: #000000">我们的课程介绍：</h2>
-    <img src="images/class.png" width="100%" height="100%" style="horizental-align: middle">
+    <img src="images/class.png" width="100%" height="100%">
   </div>
-  <div class="tile2">
+  <div class="tile">
     <!--img src="images/kids-009.jpg" width="90%" height="90%" style="horizental-align: middle"-->
     <h2 class="post-title" style="color: #000000">JoySeed 课堂带给学生受益终身的能力</h2>
     <p class="post-excerpt" style="color: ##000000">
