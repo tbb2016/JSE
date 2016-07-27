@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "Value Proposition, Process & Benefits to Your Business"
+title: "我们的课程介绍"
 date: 2015-12-29T21:12:22-08:00
 modified: 2015-12-29T21:12:22-08:00
 excerpt: Explore our Marketing Automation processes and tactics. Learn how we engage.
@@ -9,7 +9,7 @@ author:
 share: false
 ads: false
 ---
-<font color=block>
+<font color=red>
 ##MaHua是什么?
 一个在线编辑markdown文档的编辑器
 
