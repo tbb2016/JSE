@@ -48,7 +48,7 @@ ads: false
     <li>学生自由决定学习时间和地点，解决奔波之苦</li></p>
   </div>
   <div class="tile">
-    <a href="{{ site.url }}/value-prop/"><h2 id="learn" class="post-title animated infinite pulse" style="color: blue; text-decoration: underline">想要了解更多则思教育的价值理念»</h2></a>
+    <a href="{{ site.url }}/value-prop/"><h2 id="learn" class="post-title animated infinite pulse" style="color: #00BFF; text-decoration: underline">了解更多JoySeed教育的价值理念</h2></a>
   </div>
 </div>
 
