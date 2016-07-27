@@ -10,12 +10,9 @@ share: false
 ads: false
 ---
 
-##MaHua是什么?
-一个在线编辑markdown文档的编辑器
+[!class structure](../images/class.png)
 
-向Mac下优秀的markdown编辑器mou致敬
-
-##MaHua有哪些功能？
+JoySeed 课堂带给学生受益终身的能力：
 
 * 方便的`导入导出`功能
     *  直接把一个markdown的文本文件拖放到当前这个页面就可以了
