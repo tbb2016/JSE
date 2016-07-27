@@ -24,7 +24,7 @@ ads: false
     <li>100%北美籍外教</li>
     <li>100%北美名校毕业</li>
     <li>100%持有教授资质</li>
-    <li>JoySeed严格的筛选机制，   <br/>只选择最优秀的外教来保证教学质量</li></p>
+    <li>JoySeed严格的筛选机制，只   <br/>选择最优秀的外教来保证教学质量</li></p>
   </div>
   <div class="tile">
     <!--img src="images/kids-009.jpg" width="90%" height="90%" style="horizental-align: middle"-->
