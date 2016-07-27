@@ -45,7 +45,7 @@ image:
 +86(21)1234_5678
 </address> 
 
-<div style="display: block; margin: auto auto"><a href="{{ site.url }}/contact/" class="btn-success shadowbox green" style="color: white;"> &nbsp; Request A Free Consultation. &nbsp; </a></div>
+<!--div style="display: block; margin: auto auto"><a href="{{ site.url }}/contact/" class="btn-success shadowbox green" style="color: white;"> &nbsp; Request A Free Consultation. &nbsp; </a></div-->
 
 ---
 
