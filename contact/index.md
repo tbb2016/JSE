@@ -70,7 +70,7 @@ ads: false
     <input type="text" id="name_field" name="name" maxlength="140" placeholder="姓名"/>
 
     <label for="phone_field">联系电话? <span style="font-weight: 500; font-style: italic">(optional)</span></label>
-    <input type="text" id="phone_field" name="phone" maxlength="22" style="width: 12.5rem" placeholder="" /></span>
+    <input type="text" id="phone_field" name="phone" maxlength="22" style="width: 12.5rem" placeholder="" />
 
     <input type="text" name="_gotcha" style="display:none">
     <input type="hidden" name="_subject" value="INQUIRY: joyseededu.com/contact">
