@@ -14,7 +14,7 @@ ads: false
 <div id="main_titles" class="tiles">
   <div class="tile">
     <h2 class="post-title" style="color: #000000">我们的课程介绍：</h2>
-    <img src="images/class.png" width="100%" height="100%">
+    <img src="../images/class.png" width="100%" height="100%">
   </div>
   <div class="tile">
     <!--img src="images/kids-009.jpg" width="90%" height="90%" style="horizental-align: middle"-->
