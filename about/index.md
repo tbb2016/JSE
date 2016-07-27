@@ -16,7 +16,7 @@ image:
 
 <div align="center">
 <img src="../images/kids-001.jpg"  alt="class struct"/>
-</div>    <br/>
+</div>
 
 JoySeed是一家同时注册于加拿大多伦多和中国上海的现代化     <br/>
 教育科技公司。作为英语教育的先锋者，Joyseed充分依托北     <br/>
