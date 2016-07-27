@@ -1,9 +1,9 @@
 ---
 layout: article
-title: "Contact Us!"
+title: "联系我们!"
 date: 2016-05-01
 modified: 
-excerpt: "Get in touch. Ask us anything!"
+excerpt: ""
 tag: []
 image:
   feature:
@@ -57,10 +57,10 @@ ads: false
   </script>
     <span style="display: none"><h2>有什么可以帮助你?</h2></span>
 
-    <blockquote id="formpage_blockquote" class="animated fadeInUpBig"><p style="font-weight: 700">If we could wave a magic wand and <u>get you to exactly where you need to be</u> with your sales and marketing processes, what would that look like?</p></blockquote>
+    <blockquote id="formpage_blockquote" class="animated fadeInUpBig"><p style="font-weight: 700">如果你需要安排预约试听 或者希望得到其他的咨询和帮助，欢迎和我们联系</p></blockquote>
 
-    <label for="message">Briefly describe improvements you'd like to see in your sales and marketing:</label>
-    <span style="display:inline-block; margin-bottom: 5px;"><em>∙ Desired outcomes you'd like to see from working with us? …</em></span>
+    <!--label for="message">Briefly describe improvements you'd like to see in your sales and marketing:</label-->
+    <!--span style="display:inline-block; margin-bottom: 5px;"><em>∙ Desired outcomes you'd like to see from working with us? …</em></span-->
     <textarea id="message" name="message" rows="6" maxlength="2500" autofocus="autofocus" placeholder=""></textarea>
 
     <label for="email_field">电子邮件地址:<sup><span style="color: red">*</span></sup></label>
