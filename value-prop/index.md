@@ -10,7 +10,7 @@ share: false
 ads: false
 ---
 
-[!class structure](../images/class.png)
+[!class structure](../../images/class.png)
 
 JoySeed 课堂带给学生受益终身的能力：
 
