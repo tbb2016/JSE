@@ -29,7 +29,7 @@ image:
     <div align="left">
       <img src="../images/kids-009_1.jpg"  alt="feedback"/>
     </div>
-    
+        <br/>
     Joe妈妈：                              <br/><br/>
     “即将升入四年级的儿子从未参加过        <br/>
     任何课外辅导班，他从心底里是比         <br/>
@@ -47,7 +47,7 @@ image:
     <div align="left">
       <img src="../images/kids-009_1.jpg"  alt="feedback"/>
     </div>
-    
+         <br/>
     Julie爸爸：                            <br/><br/>
     “教材的难度适中，非常适合女儿的学      <br/>
     习。老师也非常有耐心，一遍一遍地       <br/>
@@ -59,7 +59,7 @@ image:
     <div align="left">
       <img src="../images/kids-009_1.jpg"  alt="feedback"/>
     </div>
-    
+        <br/>
     Coco妈妈：                            <br/><br/>
     “10岁的女儿自第一次试课就喜欢上了     <br/>
     JoySeed课堂，现在每周都盼望着上课     <br/>
