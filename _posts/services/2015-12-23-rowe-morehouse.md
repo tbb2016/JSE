@@ -9,7 +9,7 @@ ads: false
 comments: false
 share: false
 image:
-  feature: rowe-morehouse.jpg
+  feature:
   teaser: marketing-automation-agency.png
   credit:
   creditlink:
@@ -18,7 +18,7 @@ redirect_to:
 ---
 Jane Pei, Executive Director
 
-About Trendara:
+About JoySeed:
   <a href="{{ site.url }}/about/">{{ site.url }}/about/</a>
 
 ---  
