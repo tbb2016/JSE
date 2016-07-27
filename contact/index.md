@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "联系我们!"
+title: "联系我们"
 date: 2016-05-01
 modified: 
 excerpt: ""
@@ -81,6 +81,4 @@ ads: false
     </p>
     
     <figcaption style="font-style: normal"><span style="vertical-align: top">🔒</span> <strong>信息安全</strong> –您的个人信息在没有得到您本人的允许的情况下，绝对不会透露给任何第三方。<BR>您保证不会从我们这里收到任何无关信息和资讯。</figcaption>
-
-  </form>
 </fieldset>
