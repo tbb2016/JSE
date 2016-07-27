@@ -3,7 +3,7 @@ layout: archive
 title: "我们的师资力量"
 date: 2015-12-29T23:02:23-08:00
 modified: 2015-12-29T23:02:23-08:00
-excerpt: "What can we do for you?"
+excerpt: ""
 tags: [l2rm agency, lead to revenue management services]
 image:
   feature:
