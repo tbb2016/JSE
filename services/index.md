@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Services"
+title: "我们的师资力量"
 date: 2015-12-29T23:02:23-08:00
 modified: 2015-12-29T23:02:23-08:00
 excerpt: "What can we do for you?"
@@ -12,9 +12,19 @@ image:
 
 ---
 
-<div class="tiles">
-{% for post in site.categories.services %}
-  {% include post-grid.html %}
-{% endfor %}
-</div>
+* 所有教师都来自北美国家    <br/>
 
+* 经过JoySeed严格的面试筛选和培训    <br/>
+
+* 所有教师约为专业的小学、初中教师或拥有ESL儿童教学经验  <br/>
+  语言学习绝不仅仅是一个记忆知识的过程，语言的本质是思维的载体。JoySeed课堂通过各种活动真正培养学生对知识的掌握和应用能力，鼓励学生在日常生活中学会用英语的方式来思考和表达自己的观点。
+
+      <br/>
+  
+<div align="left">
+<img src="../images/anna.jpg"  alt="class teacher"/>
+</div>
+ Anna Franzese
+ 拥有加拿大安大略省认证教师资质    <br/>
+ 安大略省专业的小学教师    <br/>
+ 毕业于加拿大约克大学
