@@ -15,7 +15,7 @@ ads: false
 </div>
 
    <br/>
-   <div style="background-color:#DDDDDD;height:100px">
+<div align=“center" style="background-color:#DDDDDD;height:100px">
 JoySeed 课堂带给学生受益终身的能力：
 
 * 英语语言能力：   <br/>
