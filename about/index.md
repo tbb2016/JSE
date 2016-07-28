@@ -23,12 +23,11 @@ JoySeed是一家同时注册于加拿大多伦多和中国上海的现代化    
 美先进的教育资源，借助最前沿的教育科技，在全球范围内      <br/>
 推广高品质的英语学习课程。                                <br/><br/>
 
-## <font color="green">
-<a>                         JoySeed 愿景：</a></font>              
-                            播种快乐学习之芽  打开成功求学之门                      <br/><br/>
+## <font color="green">          JoySeed 愿景：</font>              
+                                 播种快乐学习之芽  打开成功求学之门                      <br/><br/>
 
-## <font color="green">                    课堂形式： </font>                  
-                    JoySeed课程共包括入门级在内的七个等级。学生以等级为     <br/>
+## <font color="green">课堂形式： </font>                  
+                     JoySeed课程共包括入门级在内的七个等级。学生以等级为     <br/>
                     单元报名，每一等级包含九个相互独立的主题，每单元9课     <br/>
                     时（40分钟/课时），总计81课时/等级。                    <br/>
   
