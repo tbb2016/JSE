@@ -25,7 +25,7 @@ image:
 </div>
  <font color="green">&emsp;&emsp;Anna Franzese</font>
  <small>毕业于加拿大约克大学          <br/>
- 安大略省专业的小学教师               <br/>
- 拥有加拿大安大略省认证教师资质</small>
+ 加拿大安大略省专业的小学教师         <br/>
+ 拥有安大略省认证教师资质</small>
  
 
