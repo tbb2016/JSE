@@ -1,9 +1,9 @@
 ---
 layout: article
-title: "<font color="green">我们的课程介绍</font>"
+title: ""
 date: 2015-12-29T21:12:22-08:00
 modified: 2015-12-29T21:12:22-08:00
-excerpt: Explore our Marketing Automation processes and tactics. Learn how we engage.
+excerpt: <font color="green">我们的课程介绍</font>
 tags: [marketing automation agency, l2rm, salesforce integration]
 author:
 share: false
