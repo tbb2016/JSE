@@ -15,6 +15,7 @@ ads: false
 </div>
 
    <br/>
+   <div style="background-color:#DDDDDD;height:100px">
 JoySeed 课堂带给学生受益终身的能力：
 
 * 英语语言能力：   <br/>
@@ -28,3 +29,4 @@ JoySeed 课堂带给学生受益终身的能力：
 
 * 文化感知能力：  <br/>
   通过JoySeed课堂，学生与来自不同国家、不同种族和不同文化背景的外教零距离接触，密切感知西方国家的思维模式和风俗人情，拓宽视野，充分体验多元文化的魅力。
+</div>
