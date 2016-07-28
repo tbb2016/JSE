@@ -1,22 +1,22 @@
 # Site navigation links
 - title: 课程结构
   url: /value-prop/
-  excerpt: "Our value proposition & benefits to your business."
+  excerpt: "Our value proposition & benefits to your kids."
   image: L2RM-Agency.png
 
 - title: 北美师资
   url: /services/
-  excerpt: "Learn what we can do to improve your sales & marketing efforts."
+  excerpt: "Meet our teacher team."
   image: sales-rep-training.png
   
 - title: 用户口碑
   url: /parents/
-  excerpt: "Reach out to us! … Consider it free consulting."
+  excerpt: "Take a look at these feedback."
   image: marketing-automation-agency.png
   
 - title: 预约试听
   url: /contact/
-  excerpt: "Reach out to us! … Consider it free consulting."
+  excerpt: "Reach out to us!"
   image: marketing-automation-agency.png
 
 - title: 关于我们
