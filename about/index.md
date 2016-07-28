@@ -24,7 +24,7 @@ JoySeed&emsp;<font color="black">是一家同时注册于加拿大多伦多和�
 推广高品质的英语学习课程。                                <br/><br/></font>
 
 ## <font color="green">&emsp;&emsp;&emsp;JoySeed 愿景：</font>              
-&emsp;&emsp;&emsp;播种快乐学习之芽  打开成功求学之门                      <br/><br/>
+&emsp;&emsp;&emsp;<font color="red">播种快乐学习之芽&emsp;&emsp;打开成功求学之门        <br/><br/></font>
 
 ## <font color="green">&emsp;&emsp;&emsp;&emsp;&emsp;课堂形式： </font>                  
 &emsp;&emsp;&emsp;&emsp;&emsp;<font color="black">JoySeed课程共包括入门级在内的七个等级。学生以等级为     <br/>
