@@ -14,7 +14,7 @@ image:
 ## <font color="green">家长口碑<font>
 <div id="main_titles" class="tiles">
   <div class="tile">
-    <div align="left">
+    <div align="center">
       <img src="../images/kids-009_1.jpg"  alt="feedback"/>
     </div>
     
@@ -24,7 +24,7 @@ image:
  </div>
  
  <div class="tile">
-    <div align="left">
+    <div align="center">
       <img src="../images/kids-009_1.jpg"  alt="feedback"/>
     </div>
         <br/>
@@ -33,7 +33,7 @@ image:
   </div>
 
   <div class="tile">
-    <div align="left">
+    <div align="center">
       <img src="../images/kids-009_1.jpg"  alt="feedback"/>
     </div>
          <br/>
@@ -42,7 +42,7 @@ image:
   </div>
   
   <div class="tile">
-    <div align="left">
+    <div align="center">
       <img src="../images/kids-009_1.jpg"  alt="feedback"/>
     </div>
         <br/>
