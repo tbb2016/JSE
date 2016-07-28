@@ -10,7 +10,7 @@ share: false
 ads: false
 ---
 ## <font color="green">我们的课程介绍:</font>
-<div align="center">
+<div align="right">
 <img src="../images/class.png"  alt="class struct"/>
 </div>
 
