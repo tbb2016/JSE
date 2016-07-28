@@ -12,7 +12,8 @@ ads: false
 ## <font color="green">我们的课程介绍:</font>
 <div align="center">
 <img src="../images/class.png"  alt="class struct"/>
-</div>    <br/>
+</div>
+
 
 ## <font color="green">JoySeed 课堂带给学生受益终身的能力：</font>    <br/>
 * 英语语言能力：   <br/>
