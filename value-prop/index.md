@@ -3,13 +3,13 @@ layout: article
 title: ""
 date: 2015-12-29T21:12:22-08:00
 modified: 2015-12-29T21:12:22-08:00
-excerpt: <font color="green">我们的课程介绍</font>
+excerpt:
 tags: [marketing automation agency, l2rm, salesforce integration]
 author:
 share: false
 ads: false
 ---
-
+## <font color="green">我们的课程介绍</font>
 <div align="center">
 <img src="../images/class.png"  alt="class struct"/>
 </div>
