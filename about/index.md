@@ -18,7 +18,7 @@ image:
 <img src="../images/kids-001.jpg"  alt="class struct"/>
 </div>
 
-JoySeed<font color="black">是一家同时注册于加拿大多伦多和中国上海的现代化     <br/>
+JoySeed&emsp;<font color="black">是一家同时注册于加拿大多伦多和中国上海的现代化     <br/>
 教育科技公司。作为英语教育的先锋者，Joyseed充分依托北     <br/>
 美先进的教育资源，借助最前沿的教育科技，在全球范围内      <br/>
 推广高品质的英语学习课程。                                <br/><br/></font>
