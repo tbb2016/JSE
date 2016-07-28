@@ -6,7 +6,7 @@ modified:
 excerpt: ""
 tag: []
 image:
-  feature:
+  feature: so-simple-sample-image-1.jpg
   teaser: marketing-automation-agency.png
   thumb: marketing-automation-agency.png
 share: false
