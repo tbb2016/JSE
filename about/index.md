@@ -23,7 +23,7 @@ JoySeed是一家同时注册于加拿大多伦多和中国上海的现代化    
 美先进的教育资源，借助最前沿的教育科技，在全球范围内      <br/>
 推广高品质的英语学习课程。                                <br/><br/>
 
-## <font color="green">J
+## <font color="green">
      JoySeed 愿景：</font>              
      播种快乐学习之芽  打开成功求学之门                      <br/><br/>
 
@@ -44,5 +44,6 @@ JoySeed是一家同时注册于加拿大多伦多和中国上海的现代化    
                             4.	安排专业外教测试，确定上课级别。                     <br/>
                             5.	和外教约定时间，开始上课。                           <br/><br/>
   
-## <font color="green">联系方式：</font>   
+## <font color="green">
+                                     联系方式：</font>   
 
