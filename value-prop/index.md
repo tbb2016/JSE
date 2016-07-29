@@ -9,6 +9,7 @@ author:
 share: false
 ads: false
 ---
+<fieldset>
 ## <font color="green">我们的课程介绍:</font>
 <div align="right">
 <img src="../images/class.png"  alt="class struct"/>
@@ -28,4 +29,4 @@ ads: false
 
 * 文化感知能力：  <br/>
   通过JoySeed课堂，学生与来自不同国家、不同种族和不同文化背景的外教零距离接触，密切感知西方国家的思维模式和风俗人情，拓宽视野，充分体验多元文化的魅力。
-
+</fieldset>
