@@ -24,8 +24,8 @@ image:
 <div align="left">
 <img src="../images/anna.jpg"  alt="class teacher"/>
 </div>
- <font color="green">&emsp;&emsp;&emsp;Anna Franzese</font>    <br/>
- <small>毕业于加拿大约克大学          <br/>
+ <font color="green">&emsp;&emsp;&emsp;<small>Anna Franzese</font>    <br/><br/>
+ 毕业于加拿大约克大学          <br/>
  加拿大安大略省专业的小学教师         <br/>
  拥有安大略省认证教师资质</small>
 </fieldset>
