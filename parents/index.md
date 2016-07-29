@@ -14,7 +14,7 @@ image:
 ## <font color="green">家长口碑<font>
 <div id="main_titles" class="tiles">
   <div class="tile">
-    <fieldset><pre>
+  <pre>
     <div align="center">
       <img src="../images/kids-009_1.jpg"  alt="feedback"/>
     </div>
@@ -24,8 +24,8 @@ image:
     <small>“我的女儿在JoySeed上课感觉非常棒。外教是加拿大正式注册教师，口音纯正，更重要的因为是真正的老师，懂得怎么教小孩，效果很好。”
     
     
-    </small></pre>
-    </fieldset>
+    </small>
+  </pre>
   </div>
 
   <div class="tile">
