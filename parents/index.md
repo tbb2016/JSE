@@ -14,7 +14,7 @@ image:
 ## <font color="green">家长口碑<font>
 <div id="main_titles" class="tiles">
   <div class="tile">
-  <fieldset style="height: 100%">
+  <fieldset style="height: 300px">
     <div align="center">
       <img src="../images/kids-009_1.jpg"  alt="feedback"/>
     </div>
