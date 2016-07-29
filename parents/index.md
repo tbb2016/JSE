@@ -14,7 +14,7 @@ image:
 ## <font color="green">家长口碑<font>
 <div id="main_titles" class="tiles">
   <div class="tile">
-  <pre>
+  <fieldset style="height: 100%">
     <div align="center">
       <img src="../images/kids-009_1.jpg"  alt="feedback"/>
     </div>
@@ -25,11 +25,11 @@ image:
     
     
     </small>
-  </pre>
+  </fieldset>
   </div>
 
   <div class="tile">
-    </fieldset>
+    <fieldset>
     <div align="center">
       <img src="../images/kids-009_1.jpg"  alt="feedback"/>
     </div>
@@ -37,7 +37,7 @@ image:
     <font color="green">Joe妈妈：</font>                              <br/><br/>
     <small>“即将升入四年级的儿子从未参加过任何课外辅导班，他从心底里是比较排斥辅导班的。JoySeed课堂的简介给儿子看后，他同意先试听一节课， 试听后他告诉我‘这个英语课感觉挺有意思的’，试听后当天晚上就决定报名（这是我意料之外的）。课上老师认真负责，能够关注到每个发音，    不厌其烦地纠正他的发音，整节课都能感受到浓浓的语言环境。”
     </small>
-  </field>
+  </fieldset>
   </div>
 
   <div class="tile">
