@@ -22,9 +22,7 @@ ads: false
 ## <font color="green">JoySeed 课堂带给学生受益终身的能力：</font>    <br/>
 
 * <font color="black">英语语言能力：</font>   <br/>
-<fieldset>
-  JoySeed课堂完全摆脱“哑巴式”的英语学习模式，北美外教手把手地纠正语音语调。学生通过每节课跟着外教学习，从小掌握一口地道的北美英语发音。
-</fieldset>
+<fieldset>JoySeed课堂完全摆脱“哑巴式”的英语学习模式，北美外教手把手地纠正语音语调。学生通过每节课跟着外教学习，从小掌握一口地道的北美英语发音。</fieldset>
 
 * <font color=“black">沟通交往能力:</font>    <br/>
 <fieldset>
