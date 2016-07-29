@@ -49,7 +49,7 @@ ads: false
     <li>学生自由决定学习时间和地点，解决奔波之苦</li></p>
   </div>
   <div class="tile">
-    <a href="{{ site.url }}/value-prop/"><h2 id="learn" class="post-title animated infinite pulse" style="color: #00BFF; text-decoration: underline"><small>了解更多JoySeed英语的课程结构</small></h2></a>
+    <a href="{{ site.url }}/value-prop/"><h2 id="learn" class="post-title animated infinite pulse" style="color: #00BFF; text-decoration: underline font: 微软雅黑"><small>了解更多JoySeed英语的课程结构</small></h2></a>
   </div>
 </div>
 
