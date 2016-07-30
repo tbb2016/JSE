@@ -7,8 +7,7 @@
    ========================================================================== */
 
 #masthead {
-	//padding: $gutter;
-	padding: 0;
+	padding: $gutter;
 	z-index: 5;
 	@include transform(translate(0,0));
 	@include transition(500ms cubic-bezier(.645,.045,.355,1.000));
@@ -236,7 +235,7 @@
   margin: 0 0 0 0;
   height: 350px;
   //background-color: #383866;
-  background-color: #00AA00;
+  background-color: #99DD00;
   overflow: hidden;
 }
 
