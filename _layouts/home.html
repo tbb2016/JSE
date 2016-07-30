@@ -87,7 +87,16 @@
           </div>
         </div>
       </div>
-    </div>  
+      
+      <div id="video-container">
+        <video class="fade-in one" id="video" loop autoplay muted">
+        <source src="{{ site.url }}/images/video_back.mp4" type="video/mp4">
+        <source src="{{ site.url }}/images/video_back.webm" type="video/webm">
+        <source src="{{ site.url }}/images/video_back.ogv" type="video/ogg">
+        </video>
+      </div>
+    </div>
+    
       <div id="footer-wrapper" style="background-color: #666666; margin: 0; padding: 0;   background-image: url("images/kids-009.jpg"); width: auto">
         {% include footer.html %}
       </div>
