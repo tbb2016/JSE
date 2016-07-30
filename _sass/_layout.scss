@@ -257,8 +257,7 @@
   left: 0;
   z-index: 2;
   text-align: center;
-  //padding: 1em;
-  padding: 0;
+  padding: 1em;
   @include media($large) {
     background-size: cover;
   }
