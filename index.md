@@ -23,7 +23,7 @@ ads: false
     <p class="post-excerpt" style="color: ##0000FF">
     <li>100%北美籍外教</li>
     <li>100%北美名校毕业</li>
-    <li>100%持有教授资质</li>
+    <li>100%持有教师资质</li>
     <li>JoySeed严格的面试筛选程序，<br/>
     只选择最优秀的外教来保证教学质量</li></p>
   </div>
@@ -46,7 +46,7 @@ ads: false
     <p class="post-excerpt" style="color: ##0000FF">
     <li>采用剑桥英语专业教材，根据学生的实际情况增加辅助教学内容，因材施教</li>
     <li>学生经过“课前预习-上课-课后配套练习”三个阶段，充分保证教学效果</li>
-    <li>学生自由决定学习时间和地点，解决奔波之苦</li></p>
+    <li>学生自由决定学习时间和地点</li></p>
   </div>
   <div class="tile">
     <a href="{{ site.url }}/value-prop/"><h2 id="learn" class="post-title animated infinite pulse" style="color: #00BFF; text-decoration: underline font: 微软雅黑"><small>了解更多JoySeed英语的课程结构</small></h2></a>
