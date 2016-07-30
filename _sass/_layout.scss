@@ -164,7 +164,8 @@
 			a { text-decoration: none; }
 			p a,
 			li a {
-        color: $link-color;
+        //color: $link-color;
+        color: $black;
          border-bottom: 1px dotted $caption-color;
         &:hover {
           color: lighten($link-color, 30);
