@@ -24,9 +24,9 @@ ads: false
     <li>100%北美籍外教</li>
     <li>100%北美名校毕业</li>
     <li>100%持有教师资质</li>
-    <li>严格的面试筛选程序，只   <br/>
-    &emsp;选择最优秀的外教来保   <br/>
-    &emsp;证教学质量
+    <li>严格的面试筛选程序，     <br/>
+    &emsp;只选择最优秀的外教     <br/>
+    &emsp;来保证教学质量
     </li></p>
   </div>
   <div class="tile">
@@ -37,9 +37,9 @@ ads: false
     &emsp;唱歌和游戏等丰富的课   <br/>
     &emsp;堂内容，兼顾趣味性和   <br/>
     &emsp;学术性</li>
-    <li>摆脱中文思维限制，真正   <br/>
-    &emsp;融入英文语境，快速提   <br/>
-    &emsp;高语感</li></p>
+    <li>摆脱中文思维限制，真     <br/>
+    &emsp;正融入英文语境，快速   <br/>
+    &emsp;提高语感</li></p>
   </div>
   <div class="tile">
     <h2 class="post-title" style="color: #000000">精品化的小班授课</h2>
@@ -47,13 +47,13 @@ ads: false
     <li>每个班级不超过3名学生，   <br/>
     &emsp;保证每个学生的关注度    <br/>
     &emsp;和互动时间</li>
-    <li>每位学生上课前都需要经    <br/>
-    &emsp;过外教的专业测试，以    <br/>
-    &emsp;便安排最合适的老师和    <br/>
-    &emsp;教材</li>
-    <li>每个课堂都配有专业的中    <br/>
-    &emsp;文助教，为学生解决各    <br/>
-    &emsp;种问题，提供优质服务</li></p>
+    <li>每位学生上课前都需要      <br/>
+    &emsp;经过外教的专业测试，    <br/>
+    &emsp;以便安排最合适的老师    <br/>
+    &emsp;和教材</li>
+    <li>每个课堂都配有专业的      <br/>
+    &emsp;中文助教，为学生解决    <br/>
+    &emsp;各种问题，提供优质服务</li></p>
   </div>
   <div class="tile">
     <h2 class="post-title" style="color: #000000">权威的学习内容</h2>
