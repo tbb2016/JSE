@@ -14,9 +14,8 @@ author: Jane Pei
 share: false
 ads: false
 ---
-
+##  <font color="green">我们的优势：</font>
 <!--h1 class="strapline" >上海则思教育是一家现代化的教育发展和咨询服务公司</h1-->
-## <font color="green">我们的优势：</font>
 <div id="main_titles" class="tiles">
   <div class="tile">
     <!--img src="images/kids-009.jpg" width="90%" height="90%" style="horizental-align: middle"-->
