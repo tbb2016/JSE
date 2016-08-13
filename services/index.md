@@ -31,7 +31,7 @@ image:
 </fieldset>
 
 <fieldset>
-<div align="left">
+<div>
 <img src="../images/amanda.jpg"  alt="class teacher"/>
 </div>
  <font color="green">&emsp;&emsp;&emsp;<small>Amanda Rimmer</small></font>    <br/><br/>
