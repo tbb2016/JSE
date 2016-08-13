@@ -30,3 +30,11 @@ image:
  拥有安大略省认证教师资质</small>
 </fieldset>
 
+<fieldset>
+<div align="left">
+<img src="../images/amanda.jpg"  alt="class teacher"/>
+</div>
+ <font color="green">&emsp;&emsp;&emsp;<small>Amanda Rimmer</small></font>    <br/><br/>
+ <small>渥太华大学教育学、卡尔顿大学英语文学学位    <br/>
+ 加拿大安大略省注册教师、 渥太华-卡尔顿教育局专职小学教师</small>
+</fieldset>
