@@ -25,7 +25,7 @@ image:
       <div align="center">
         <img src="../images/anna.jpg"  alt="class teacher"/>
       </div>
-      <font color="green">&emsp;&emsp;&emsp;<small>Anna Franzese</small></font>    <br/><br/>
+      <font color="green">&emsp;&emsp;&emsp;<small>Anna</small></font>    <br/><br/>
       <small>加拿大约克大学教育学学士             <br/>
              加拿大安大略省注册教师               <br/>
              加拿大安大略省专职小学教师
@@ -38,7 +38,7 @@ image:
       <div align="center">
         <img src="../images/amanda.jpg"  alt="class teacher"/>
       </div>
-      <font color="green">&emsp;&emsp;&emsp;<small>Amanda Rimmer</small></font>    <br/><br/>
+      <font color="green">&emsp;&emsp;&emsp;<small>Amanda</small></font>    <br/><br/>
       <small>加拿大渥太华大学教育学学士            <br/>
              加拿大卡尔顿大学英语文学学士          <br/>
              加拿大安大略省注册教师                <br/> 
