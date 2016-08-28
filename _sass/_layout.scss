@@ -413,8 +413,10 @@
 	@include outer-container;
 	//margin-top: (3 * (0px + $doc-line-height));
 	//margin-top: (3 * (0rem + ($doc-line-height / $doc-font-size)));
-	margin: 0;
+	margin-left: 100px;
+	margin-bottom: -10px; 
 	padding-bottom: 0;
+	border: 0;
 	font-family: $alt-font;
   /* Copyright text */
 	.copyright {
