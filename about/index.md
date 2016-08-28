@@ -43,3 +43,4 @@ JoySeed&emsp;<font color="black">是一家同时注册于加拿大多伦多和�
   
 ## <font color="green">&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;联系方式：</font>   
 
+<p><a href="{{ site.url }}"><img src="{{ site.url }}/images/joyseed_white.jpg" width="60" height="60" style="margin-left: 0; margin-bottom: 0; border=0;"></a></p>
