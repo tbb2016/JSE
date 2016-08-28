@@ -68,6 +68,16 @@ ads: false
     &emsp;地点</li></p>
   </div>
   <div class="tile">
+    <h2 class="post-title" style="color: #000000">灵活高效的学习方式</h2>
+    <p class="post-excerpt" style="color: ##0000FF">
+    <li>学生自由决定学习时间和    <br/>
+    &emsp;地点，解决奔波之苦。</li>   <br/>
+    <li>家长可带领学生反复回顾    <br/>
+    &emsp;课程录像，及时了解学    <br/>
+    &emsp;习效果，并帮助学生巩    <br/>
+    &emsp;固知识点。</li></p>
+  </div>
+  <div class="tile">
     <a href="{{ site.url }}/value-prop/"><h2 id="learn" class="post-title animated infinite pulse" style="color: #00BFF; text-decoration: underline font: 微软雅黑"><small>了解更多JoySeed英语的课程结构</small></h2></a>
   </div>
 </div>
