@@ -1,4 +1,4 @@
-<footer role="contentinfo" id="site-footer" style="bottom: 0">
+<footer role="contentinfo" id="site-footer" style="bottom: 0" background="#666666">
 	<nav role="navigation" class="menu bottom-menu">
 		<ul class="menu-item">
 		{% for link in site.data.footer %}
@@ -8,7 +8,7 @@
         {% assign domain = site.url %}
       {% endif %}
       <!--IMG STYLE="position:absolute; TOP:90%; LEFT:80%px; WIDTH:50px; HEIGHT:50px" SRC="/images/kids-009.jpg"-->
-			<li><a href="{{ domain }}{{ link.url }}" {% if link.url contains 'http' %}target="_blank"{% endif %}><font background="#AAAAAA" color="#FFFFFF" face="华文细黑"><small>{{ link.title }}</small></a></li>
+			<li><a href="{{ domain }}{{ link.url }}" {% if link.url contains 'http' %}target="_blank"{% endif %}><font background="#666666" color="#FFFFFF" face="华文细黑"><small>{{ link.title }}</small></a></li>
 		{% endfor %}
 		</ul>
 	</nav><!-- /.bottom-menu -->
