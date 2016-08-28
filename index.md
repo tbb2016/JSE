@@ -52,10 +52,14 @@ ads: false
     &emsp;和教材</li>
     <li>每个课堂都配有专业的      <br/>
     &emsp;中文助教，为学生解决    <br/>
-    &emsp;各种问题，提供优质服务</li></p>
+    &emsp;各种问题，提供优质服务  </li>
+    <li>家长可带领学生反复回顾    <br/>
+    &emsp;课程录像，及时了解学    <br/>
+    &emsp;习效果，并帮助学生巩    <br/>
+    &emsp;固知识点。              </li></p>
   </div>
   <div class="tile">
-    <h2 class="post-title" style="color: #000000">权威的学习内容和灵活的学习方式</h2>
+    <h2 class="post-title" style="color: #000000">权威的学习内容</h2>
     <p class="post-excerpt" style="color: ##0000FF">
     <li>采用剑桥英语专业教材，    <br/>
     &emsp;根据学生的实际情况增    <br/>
@@ -65,11 +69,7 @@ ads: false
     &emsp;-课后配套练习”三个阶    <br/>
     &emsp;段，充分保证教学效果    </li>
     <li>学生自由决定学习时间和    <br/>
-    &emsp;地点，解决奔波之苦。    </li>
-    <li>家长可带领学生反复回顾    <br/>
-    &emsp;课程录像，及时了解学    <br/>
-    &emsp;习效果，并帮助学生巩    <br/>
-    &emsp;固知识点。</li></p>
+    &emsp;地点，解决奔波之苦。    </li></p>
   </div>
   <div class="tile">
     <a href="{{ site.url }}/value-prop/"><h2 id="learn" class="post-title animated infinite pulse" style="color: #00BFF; text-decoration: underline font: 微软雅黑"><small>了解更多JoySeed英语的课程结构</small></h2></a>
