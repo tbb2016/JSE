@@ -33,14 +33,6 @@ JoySeed&emsp;<font color="black">是一家同时注册于加拿大多伦多和�
   
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<font color="black">每位学生可在报名前免费试听一课时。正式报名后，学生可           <br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;根据自己需求，每周安排两至三节课，每节课60分钟（1.5课时）。    <br/><br/></font>
-
-## <font color="green">&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 报名流程： </font>            
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<font color="black">1.	关注微信公众号：JoySeed英语，留言预约试听。          <br/>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2.	JoySeed工作人员与您联系，安排试听课。                <br/>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;3.	试听结束，若满意，签订正式协议，付款。               <br/>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;4.	安排专业外教测试，确定上课级别。                     <br/>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;5.	和外教约定时间，开始上课。                           <br/><br/></font>
   
-## <font color="green">&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;联系方式：</font>   
+## <font color="green">&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;联系方式：</font>   
 
-<p><a href="{{ site.url }}"><img src="{{ site.url }}/images/joyseed_white.jpg" width="60" height="60" style="margin-left: 0; margin-bottom: 0; border=0;"></a></p>
