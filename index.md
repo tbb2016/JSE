@@ -55,7 +55,7 @@ ads: false
     &emsp;各种问题，提供优质服务</li></p>
   </div>
   <div class="tile">
-    <h2 class="post-title" style="color: #000000">权威的学习内容</h2>
+    <h2 class="post-title" style="color: #000000">权威的学习内容和灵活的学习方式</h2>
     <p class="post-excerpt" style="color: ##0000FF">
     <li>采用剑桥英语专业教材，    <br/>
     &emsp;根据学生的实际情况增    <br/>
@@ -63,13 +63,7 @@ ads: false
     &emsp;施教</li>
     <li>学生经过“课前预习-上课    <br/>
     &emsp;-课后配套练习”三个阶    <br/>
-    &emsp;段，充分保证教学效果</li>
-    <li>学生自由决定学习时间和    <br/>
-    &emsp;地点</li></p>
-  </div>
-  <div class="tile">
-    <h2 class="post-title" style="color: #000000">灵活高效的学习方式</h2>
-    <p class="post-excerpt" style="color: ##0000FF">
+    &emsp;段，充分保证教学效果    </li>
     <li>学生自由决定学习时间和    <br/>
     &emsp;地点，解决奔波之苦。    </li>
     <li>家长可带领学生反复回顾    <br/>
