@@ -21,7 +21,7 @@ image:
   鼓励学生在日常生活中学会用英语的方式来思考和表达自己的观点。    <br/><br/><br/>
   
 <div class="tile">
-    <fieldset style="height: 550px">
+    <fieldset style="height: 350px">
       <div align="center">
         <img src="../images/anna.jpg"  alt="class teacher"/>
       </div>
@@ -34,7 +34,7 @@ image:
 </div>
 
 <div class="tile">
-    <fieldset style="height: 550px">
+    <fieldset style="height: 350px">
       <div align="center">
         <img src="../images/amanda.jpg"  alt="class teacher"/>
       </div>
