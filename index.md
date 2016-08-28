@@ -71,7 +71,7 @@ ads: false
     <h2 class="post-title" style="color: #000000">灵活高效的学习方式</h2>
     <p class="post-excerpt" style="color: ##0000FF">
     <li>学生自由决定学习时间和    <br/>
-    &emsp;地点，解决奔波之苦。</li>   <br/>
+    &emsp;地点，解决奔波之苦。    </li>
     <li>家长可带领学生反复回顾    <br/>
     &emsp;课程录像，及时了解学    <br/>
     &emsp;习效果，并帮助学生巩    <br/>
