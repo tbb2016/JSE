@@ -1,7 +1,7 @@
 ---
 layout: home
 permalink: /
-title: "现代化的教育咨询服务"
+title: "纯正北美英语教育专家"
 date: 2016-05-01
 #modified: 2015-12-30T01:40:54-08:00
 excerpt: 上海则思教育科技有限公司是一家现代化的教育服务咨询公司.
@@ -20,13 +20,14 @@ ads: false
     <!--img src="images/kids-009.jpg" width="90%" height="90%" style="horizental-align: middle"-->
     <h2 class="post-title" style="color: #000000">北美的优秀外教团队</h2>
     <p class="post-excerpt" style="color: ##0000FF">
-    <li>100%北美籍外教</li>
-    <li>100%北美名校毕业</li>
-    <li>100%持有教师资质</li>
-    <li>严格的面试筛选程序，     <br/>
-    &emsp;只选择最优秀的外教     <br/>
-    &emsp;来保证教学质量
-    </li></p>
+    <li>100%北美国籍外教</li>
+    <li>100%名校毕业</li>
+    <li>100%持教师资质</li>
+    <li>经过JoySeed严格的面试筛选过程       <br/>
+    &emsp;只选择最优秀的外教保证教学质量    </li>
+    <li>JoySeed提供系统而全面的培训，       <br/>
+    &emsp;使外教更好地适应中国学生的学习    <br/>
+    &emsp;特点和风格                        </li></p>
   </div>
   <div class="tile">
     <!--img src="images/kids-009.jpg" width="90%" height="90%" style="horizental-align: middle"-->
@@ -72,7 +73,7 @@ ads: false
     &emsp;地点，解决奔波之苦。    </li></p>
   </div>
   <div class="tile">
-    <a href="{{ site.url }}/value-prop/"><h2 id="learn" class="post-title animated infinite pulse" style="color: #00BFF; text-decoration: underline font: 微软雅黑"><small>了解更多JoySeed英语的课程结构</small></h2></a>
+    <a href="{{ site.url }}/value-prop/"><h2 id="learn" class="post-title animated infinite pulse" style="color: #00BFF; text-decoration: underline font: 华文细黑"><small>了解更多JoySeed英语的课程结构</small></h2></a>
   </div>
 </div>
 
