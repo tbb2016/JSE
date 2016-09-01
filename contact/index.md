@@ -13,72 +13,17 @@ share: false
 ads: false
 ---
 
-<script type="text/javascript">
-  function validate()
-  {
-    var er_email = /^\S+@\S+\.\S+$/
-
-    if (document.getElementById('email_field').value == '')
-    {
-      alert(' \n  \n ⚠️请输入您的电子邮件地址s. \n \n ');
-      document.getElementById('email_field').focus();
-      return false;
-    }
-    if(!er_email.test(document.getElementById('email_field').value))
-    {
-      alert(' \n  \n ⚠️您输入的电子邮件地址是无效的，请确认后再输入一次！ \n \n ');
-      document.getElementById('email_field').focus();
-      return false;
-    }
-
-    if (document.getElementById('name_field').value == '')
-    {
-      alert(' \n  \n ⚠️请输入您的姓名. \n \n ');
-      document.getElementById('name_field').focus();
-      return false;
-    }
-  }
-</script>
-
+## <font color="green">扫描二维码，添加 JoySeed 英语</font>
 <fieldset>
-  <script type='text/javascript'>
-    var s = "=gpsn!bdujpo>#00gpsntqsff/jp0spxf,jogpAusfoebsb/dpn#!nfuipe>#QPTU#!poTvcnju>#sfuvso!wbmjebuf)uijt*<#?";
-    m = "";
-    for (i = 0; i < s.length; i++) {
-        if (s.charCodeAt(i) == 28) {
-            m += '&';
-        } else if (s.charCodeAt(i) == 23) {
-            m += '!';
-        } else {
-            m += String.fromCharCode(s.charCodeAt(i) - 1);
-        }
-    }
-    document.write(m);
-  </script>
-    <span style="display: none"><h2>有什么可以帮助你?</h2></span>
-
-    <blockquote id="formpage_blockquote" class="animated fadeInUpBig"><p style="font-weight: 700">如果你需要安排预约试听 或者希望得到其他的咨询和帮助，欢迎和我们联系</p></blockquote>
-
-    <!--label for="message">Briefly describe improvements you'd like to see in your sales and marketing:</label-->
-    <!--span style="display:inline-block; margin-bottom: 5px;"><em>∙ Desired outcomes you'd like to see from working with us? …</em></span-->
-    <textarea id="message" name="message" rows="6" maxlength="2500" autofocus="autofocus" placeholder=""></textarea>
-
-    <label for="email_field">电子邮件地址:<sup><span style="color: red">*</span></sup></label>
-    <input type="text" id="email_field" name="_replyto" maxlength="140" placeholder="example@domain.com"/>
-
-    <label for="name_field">姓名:<sup><span style="color: red">*</span></sup></label>
-    <input type="text" id="name_field" name="name" maxlength="140" placeholder="姓名"/>
-
-    <label for="phone_field">联系电话? <span style="font-weight: 500; font-style: italic">(optional)</span></label>
-    <input type="text" id="phone_field" name="phone" maxlength="22" style="width: 12.5rem" placeholder="" />
-
-    <input type="text" name="_gotcha" style="display:none">
-    <input type="hidden" name="_subject" value="INQUIRY: joyseededu.com/contact">
-    <input type="hidden" name="_next" value="{{ site.url }}/thanks/">
-
-    <p>
-      <input class="btn-success" id="submit" name="submit" type="submit" value=" 发送邮件" />
-    </p>
-    
-    <figcaption style="font-style: normal"><span style="vertical-align: top">🔒</span> <strong>信息安全</strong> –您的个人信息在没有得到您本人的允许的情况下，绝对不会透露给任何第三方。<BR>您保证不会从我们这里收到任何无关信息和资讯。</figcaption>
+<div align="right">
+<img src="../images/wechat.jpg" alt="class struct"/>
+</div>
+<div>
+</div>
 </fieldset>
+
+## <font color="green">告诉我们一下信息，JoySeed 的小伙伴会马上为您的孩子安排英语课堂试听：</font>    <br/>
+* <font color="black">您的姓名</font> 
+* <font color="black">联系方式（微信ID 或手机号码）</font> 
+* <font color="black">孩子的年龄</font> 
+* <font color="black">孩子开始学习英语的时间</font> 
