@@ -23,12 +23,13 @@ ads: false
     <li>100% 北美国籍外教</li>
     <li>100% 名校毕业</li>
     <li>100% 持教师资质</li>
-    <li>经过 JoySeed 严格的面试             <br/>
+    <li>经过 JoySeed严格的面试              <br/>
     &emsp;筛选过程,只选择最优秀的           <br/>
     &emsp;外教保证教学质量                  </li>
-    <li>JoySeed 提供系统而全面的            <br/>
-    &emsp;培训，使外教更好地适应            <br/>
-    &emsp;中国学生的学习特点和风格          </li></p>
+    <li>JoySeed 提供系统而全面              <br/>
+    &emsp;的培训，使外教更好地适            <br/>
+    &emsp;应中国学生的学习特点和            <br/>
+    &emsp;风格                              </li></p>
   </div>
   <div class="tile">
     <!--img src="images/kids-009.jpg" width="90%" height="90%" style="horizental-align: middle"-->
