@@ -16,7 +16,7 @@ image:
   <div class="tile">
   <fieldset style="height: 550px">
     <div align="center">
-      <img src="../images/01-07.png" width="40" height="40" alt="feedback"/>
+      <img src="../images/01-07.png" width="90" height="90" alt="feedback"/>
     </div>
     
         <br/>
