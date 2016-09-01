@@ -18,29 +18,31 @@ ads: false
 <div id="main_titles" class="tiles">
   <div class="tile">
     <!--img src="images/kids-009.jpg" width="90%" height="90%" style="horizental-align: middle"-->
-    <h2 class="post-title" style="color: #000000 font: 华文细黑">北美的优秀外教团队</h2>
+    <h2 class="post-title" style="color: #000000">北美的优秀外教团队</h2>
     <p class="post-excerpt" style="color: ##0000FF">
-    <li>100%北美国籍外教</li>
-    <li>100%名校毕业</li>
-    <li>100%持教师资质</li>
-    <li>经过JoySeed严格的面试筛选过程       <br/>
-    &emsp;只选择最优秀的外教保证教学质量    </li>
-    <li>JoySeed提供系统而全面的培训，       <br/>
-    &emsp;使外教更好地适应中国学生的学习    <br/>
-    &emsp;特点和风格                        </li></p>
+    <li>100% 北美国籍外教</li>
+    <li>100% 名校毕业</li>
+    <li>100% 持教师资质</li>
+    <li>经过JoySeed严格的面试               <br/>
+    &emsp;筛选过程,只选择最优               <br/>
+    &emsp;秀的外教保证教学质量              </li>
+    <li>JoySeed 提供系统而全面              <br/>
+    &emsp;的培训，使外教更好地              <br/>
+    &emsp;适应中国学生的学习特              <br/>
+    &emsp;点和风格                          </li></p>
   </div>
   <div class="tile">
     <!--img src="images/kids-009.jpg" width="90%" height="90%" style="horizental-align: middle"-->
     <h2 class="post-title" style="color: #000000">沉浸式的语言学习环境</h2>
     <p class="post-excerpt" style="color: ##0000FF">
-    <li>包括阅读、听力、对话、唱歌、游戏     <br/>
-    &emsp;等丰富的课堂内容，兼顾趣味性和     <br/>
-    &emsp;学术性                             </li>
-    <li>摆脱中文思维限制，真正融入英文语     <br/>
-    &emsp;境，快速提高语感                   </li>
-    <li>着重培养学生对知识的掌握和应用能     <br/>
-    &emsp;力，用英语模式来思考和表达自己     <br/>
-    &emsp;的观点                             </li></p>
+    <li>包括阅读、听力、对话、唱歌           <br/>
+    &emsp;游戏等丰富的课堂内容，             <br/>
+    &emsp;兼顾趣味性和学术性                 </li>
+    <li>摆脱中文思维限制，真正融入           <br/>
+    &emsp;英文语境，快速提高语感             </li>
+    <li>着重培养学生对知识的掌握和           <br/>
+    &emsp;应用能力，用英语模式来思           <br/>
+    &emsp;考和表达自己的观点                 </li></p>
   </div>
   <div class="tile">
     <h2 class="post-title" style="color: #000000">精品化的小班授课</h2>
