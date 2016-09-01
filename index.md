@@ -18,7 +18,7 @@ ads: false
 <div id="main_titles" class="tiles">
   <div class="tile">
     <!--img src="images/kids-009.jpg" width="90%" height="90%" style="horizental-align: middle"-->
-    <h2 class="post-title" style="color: #000000">北美的优秀外教团队</h2>
+    <h2 class="post-title" style="color: #000000 font: 华文细黑">北美的优秀外教团队</h2>
     <p class="post-excerpt" style="color: ##0000FF">
     <li>100%北美国籍外教</li>
     <li>100%名校毕业</li>
@@ -33,13 +33,14 @@ ads: false
     <!--img src="images/kids-009.jpg" width="90%" height="90%" style="horizental-align: middle"-->
     <h2 class="post-title" style="color: #000000">沉浸式的语言学习环境</h2>
     <p class="post-excerpt" style="color: ##0000FF">
-    <li>包括阅读、听力、对话、   <br/>
-    &emsp;唱歌和游戏等丰富的课   <br/>
-    &emsp;堂内容，兼顾趣味性和   <br/>
-    &emsp;学术性</li>
-    <li>摆脱中文思维限制，真     <br/>
-    &emsp;正融入英文语境，快速   <br/>
-    &emsp;提高语感</li></p>
+    <li>包括阅读、听力、对话、唱歌、游戏     <br/>
+    &emsp;等丰富的课堂内容，兼顾趣味性和     <br/>
+    &emsp;学术性                             </li>
+    <li>摆脱中文思维限制，真正融入英文语     <br/>
+    &emsp;境，快速提高语感                   </li>
+    <li>着重培养学生对知识的掌握和应用能     <br/>
+    &emsp;力，用英语模式来思考和表达自己     <br/>
+    &emsp;的观点                             </li></p>
   </div>
   <div class="tile">
     <h2 class="post-title" style="color: #000000">精品化的小班授课</h2>
