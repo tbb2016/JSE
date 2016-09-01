@@ -13,7 +13,7 @@ ads: false
 ## <font color="green">我们的课程介绍:</font>
 <fieldset>
 <div align="right">
-<img src="../images/课程2-11.jpg" width="1024" height="567"  alt="class struct"/>
+<img src="../images/课程2-11.jpg" width="1280" height="800"  alt="class struct"/>
 </div>
 <div>
 </div>
