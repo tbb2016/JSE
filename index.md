@@ -55,7 +55,7 @@ ads: false
     &emsp;合适的老师和教材              </li>
     <li>每个课堂都配有专业的中文        <br/>
     &emsp;助教，为学生解决各种问题，    <br/>
-    &emsp;提供优质服务                  </li>
+    &emsp;提供优质服务                  </li></p>
 
   </div>
   <div class="tile">
