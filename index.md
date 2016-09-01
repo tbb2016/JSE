@@ -26,9 +26,9 @@ ads: false
     <li>经过 JoySeed 严格的面试             <br/>
     &emsp;筛选过程,只选择最优秀的           <br/>
     &emsp;外教保证教学质量                  </li>
-    <li>JoySeed 提供系统而全面的培          <br/>
-    &emsp;训，使外教更好地适应中国          <br/>
-    &emsp;学生的学习特点和风格              </li></p>
+    <li>JoySeed 提供系统而全面的            <br/>
+    &emsp;培训，使外教更好地适应            <br/>
+    &emsp;中国学生的学习特点和风格          </li></p>
   </div>
   <div class="tile">
     <!--img src="images/kids-009.jpg" width="90%" height="90%" style="horizental-align: middle"-->
