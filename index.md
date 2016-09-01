@@ -18,7 +18,7 @@ ads: false
 <div id="main_titles" class="tiles">
   <div class="tile">
     <!--img src="images/kids-009.jpg" width="90%" height="90%" style="horizental-align: middle"-->
-    <h2 class="post-title" style="color: #000000">北美的优秀外教团队</h2>
+    <h2 class="post-title" style="color: #000000">  北美的优秀外教团队</h2>
     <p class="post-excerpt" style="color: ##0000FF">
     <li>100% 北美国籍外教</li>
     <li>100% 名校毕业</li>
@@ -33,7 +33,7 @@ ads: false
   </div>
   <div class="tile">
     <!--img src="images/kids-009.jpg" width="90%" height="90%" style="horizental-align: middle"-->
-    <h2 class="post-title" style="color: #000000">沉浸式的语言学习环境</h2>
+    <h2 class="post-title" style="color: #000000">  沉浸式的语言学习环境</h2>
     <p class="post-excerpt" style="color: ##0000FF">
     <li>包括阅读、听力、对话、唱歌           <br/>
     &emsp;游戏等丰富的课堂内容，兼顾         <br/>
@@ -45,7 +45,7 @@ ads: false
     &emsp;和表达自己的观点                 </li></p>
   </div>
   <div class="tile">
-    <h2 class="post-title" style="color: #000000">精品化的小班授课</h2>
+    <h2 class="post-title" style="color: #000000">  精品化的小班授课</h2>
     <p class="post-excerpt" style="color: ##0000FF">
     <li>每个班级不超过3名学生，     <br/>
     &emsp;保证每个学生的关注度和    <br/>
@@ -59,13 +59,13 @@ ads: false
 
   </div>
   <div class="tile">
-    <h2 class="post-title" style="color: #000000">权威的学习内容</h2>
+    <h2 class="post-title" style="color: #000000">  权威的学习内容</h2>
     <p class="post-excerpt" style="color: ##0000FF">
     <li>采用剑桥英语专业教材，并        <br/>
     &emsp;根据学生的实际情况增加辅助    <br/>
     &emsp;教学内容，因材施教            </li>
     <li>学生经过“课前预习-上课-课后     <br/>
-    &emsp;配套练习”三个阶段，充分保
+    &emsp;配套练习”三个阶段，充分保     <br/>
     &emsp;证教学效果                     </li>
     <li>家长可带领学生反复回顾           <br/>
     &emsp;课程录像，及时了解学习效果，   <br/>
