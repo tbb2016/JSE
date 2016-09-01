@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "联系我们"
+title: 
 date: 2016-05-01
 modified: 
 excerpt: ""
@@ -22,7 +22,9 @@ ads: false
 </div>
 </fieldset>
 
-## <font color="green">告诉我们一下信息，JoySeed 的小伙伴会马上为您的孩子安排英语课堂试听：</font>    <br/>
+<br/><br/><br/>
+
+### <font color="green">告诉我们一下信息，JoySeed 的小伙伴会马上为您的孩子安排英语课堂试听：</font>    <br/>
 * <font color="black">您的姓名</font> 
 * <font color="black">联系方式（微信ID 或手机号码）</font> 
 * <font color="black">孩子的年龄</font> 
