@@ -36,27 +36,26 @@ ads: false
     <h2 class="post-title" style="color: #000000">沉浸式的语言学习环境</h2>
     <p class="post-excerpt" style="color: ##0000FF">
     <li>包括阅读、听力、对话、唱歌           <br/>
-    &emsp;游戏等丰富的课堂内容，             <br/>
-    &emsp;兼顾趣味性和学术性                 </li>
+    &emsp;游戏等丰富的课堂内容，兼顾         <br/>
+    &emsp;趣味性和学术性                     </li>
     <li>摆脱中文思维限制，真正融入           <br/>
     &emsp;英文语境，快速提高语感             </li>
     <li>着重培养学生对知识的掌握和           <br/>
-    &emsp;应用能力，用英语模式来思           <br/>
-    &emsp;考和表达自己的观点                 </li></p>
+    &emsp;应用能力，用英语模式来思考         <br/>
+    &emsp;和表达自己的观点                 </li></p>
   </div>
   <div class="tile">
     <h2 class="post-title" style="color: #000000">精品化的小班授课</h2>
     <p class="post-excerpt" style="color: ##0000FF">
-    <li>每个班级不超过3名学生，   <br/>
-    &emsp;保证每个学生的关注度    <br/>
-    &emsp;和互动时间</li>
-    <li>每位学生上课前都需要      <br/>
-    &emsp;经过外教的专业测试，    <br/>
-    &emsp;以便安排最合适的老师    <br/>
-    &emsp;和教材</li>
-    <li>每个课堂都配有专业的      <br/>
-    &emsp;中文助教，为学生解决    <br/>
-    &emsp;各种问题，提供优质服务  </li>
+    <li>每个班级不超过3名学生，     <br/>
+    &emsp;保证每个学生的关注度和    <br/>
+    &emsp;互动时间                  </li>
+    <li>每位学生上课前都需要经过        <br/>
+    &emsp;外教的专业测试，以便安排最    <br/>
+    &emsp;合适的老师和教材              </li>
+    <li>每个课堂都配有专业的中文        <br/>
+    &emsp;助教，为学生解决各种问题，    <br/>
+    &emsp;提供优质服务                  </li>
     <li>家长可带领学生反复回顾    <br/>
     &emsp;课程录像，及时了解学    <br/>
     &emsp;习效果，并帮助学生巩    <br/>
