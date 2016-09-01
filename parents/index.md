@@ -31,7 +31,7 @@ image:
   <div class="tile">
     <fieldset style="height: 550px">
     <div align="center">
-      <img src="../images/kids-009_1.jpg"  alt="feedback"/>
+      <img src="../images/01-09.png" width="250" height="250"  alt="feedback"/>
     </div>
         <br/>
     <font color="green">Joe妈妈：</font>                              <br/><br/>
@@ -43,7 +43,7 @@ image:
   <div class="tile">
   <fieldset style="height: 550px">
     <div align="center">
-      <img src="../images/kids-009_1.jpg"  alt="feedback"/>
+      <img src="../images/01-08.png" width="250" height="250" alt="feedback"/>
     </div>
          <br/>
     <font color="green">Julie爸爸：</font>                            <br/><br/>
@@ -57,7 +57,7 @@ image:
   <div class="tile">
   <fieldset style="height: 550px">
     <div align="center">
-      <img src="../images/kids-009_1.jpg"  alt="feedback"/>
+      <img src="../images/01-10.png" width="250" heigh="250"  alt="feedback"/>
     </div>
         <br/>
     <font color="green">Coco妈妈：</font>                            <br/><br/>
