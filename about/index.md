@@ -26,7 +26,7 @@ image:
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<font color="red">播种快乐学习之芽&emsp;打开成功求学之门        <br/><br/></font>
 
 ## <font color="green">&emsp;&emsp;&emsp;&emsp; 课堂形式： </font>                  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<font color="black">JoySeed课程共包括入门级在内的七个等级。学生以等级为     <br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<font color="black">课程共包括入门级在内的七个等级。学生以等级为     <br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;单元报名，每一等级包含九个相互独立的主题，每单元9课     <br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时（40分钟/课时），总计81课时/等级。                    <br/></font>
   
