@@ -13,7 +13,7 @@ share: false
 ads: false
 ---
 
-#### <font color="green">扫描二维码，添加 JoySeed 英语-课堂小秘书</font>
+#### <font color="green">扫描微信二维码，添加 JoySeed 英语-课堂小秘书</font>
 <fieldset>
 <div align="center">
 <img src="../images/joyseed_wechat.jpg" width="296" height="384" alt="class struct"/>
