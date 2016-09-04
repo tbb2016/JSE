@@ -8,8 +8,8 @@ excerpt: 上海则思教育科技有限公司是一家现代化的教育服务�
 tags: [教育, 留学，咨询]
 image:
   feature:
-  teaser: marketing-automation-agency.png
-  thumb: marketing-automation-agency.png
+  teaser:
+  thumb: 
 author: Jane Pei
 share: false
 ads: false
