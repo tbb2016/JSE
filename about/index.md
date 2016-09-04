@@ -26,9 +26,9 @@ image:
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<font color="red">播种快乐学习之芽&emsp;打开成功求学之门        <br/><br/></font>
 
 ## <font color="green">&emsp;&emsp;&emsp;&emsp; 课堂形式： </font>                  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<font color="black">课程共包括入门级在内的七个等级。学生以等级为     <br/>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;单元报名，每一等级包含九个相互独立的主题，每单元9课     <br/>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时（40分钟/课时），总计81课时/等级。                    <br/></font>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<font color="black">课程共包括入门级在内的七个等级。学生以等级为单元报名，     <br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;每一等级包含九个相互独立的主题，每单元9课时（40分钟/课时），                   <br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;总计81课时/等级。                    <br/></font>
   
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<font color="black">每位学生可在报名前免费试听一课时。正式报名后，学生可           <br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;根据自己需求，每周安排两至三节课，每节课60分钟（1.5课时）。    <br/><br/></font>
