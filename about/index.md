@@ -18,10 +18,10 @@ image:
 <img src="../images/kids-001.jpg"  alt="class struct"/>
 </div>
 
-<img src="../images/joyseed_white_bottom.jpg" width="80" height="50">
+<img src="../images/joyseed_white_bottom.jpg" width="80" height="50">&emsp;
 <font color="black">是一家同时注册于加拿大多伦多和中国上海的现代化     <br/>
 教育科技公司。作为英语教育的先锋者，</font>
-<img src="../images/joyseed_white_bottom.jpg" width="80" height="50">
+<img src="../images/joyseed_white_bottom.jpg" width="80" height="50">&emsp;
 <font color="black">充分依托北     <br/>
 美先进的教育资源，借助最前沿的教育科技，在全球范围内推广高          <br/><br/>
 品质的英语学习课程。                                <br/><br/></font>
