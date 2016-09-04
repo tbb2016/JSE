@@ -33,5 +33,5 @@ image:
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<font color="black">每位学生可在报名前免费试听一课时。正式报名后，学生可           <br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;根据自己需求，每周安排两至三节课，每节课60分钟（1.5课时）。    <br/><br/></font>
   
-## <font color="green">&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;联系方式：</font>   
+## <font color="green">&emsp;&emsp;&emsp;&emsp;联系方式：</font>   
 
