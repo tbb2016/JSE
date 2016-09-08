@@ -3,7 +3,7 @@
   <ul class="menu-item">
     {% for link in site.data.navigation %}<li>
       <a href="{{ site.url }}{{ link.url }}">
-        {% if link.image %}<img src="{{ site.url }}/images/joyseed_white.jpg width=60 height=60" alt="" class="teaser">{% endif %}
+        {% if link.image %}<img src="{{ site.url }}/images/joyseed_white.jpg" width="60" height="60" alt="" class="teaser">{% endif %}
         <div class="title">{{ link.title }}</div>
         {% if link.excerpt %}<p class="excerpt">{{ link.excerpt }}</p>{% endif %}
       </a>
